@@ -1,0 +1,1513 @@
+#EXTM3U generation-date="2025.05.16 13:22:43 MSK"
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/1643.png" tvg-name="ch1643" timeshift="6" group-title="Федеральные",Первый
+http://13.team.ga:80/ch1643/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvh96QyTBUs55bU8O-3avDPsHxqYECJuR1tYgvuX6zQty
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/1644.png" tvg-name="ch1644" timeshift="6" group-title="Федеральные",Россия 1
+http://13.team.ga:80/ch1644/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvuPEE1xBA1Fs3jvJWcRRusRVIKqYG27lHV1zP4TDc1Ga
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/2453.png" tvg-name="ch2453" timeshift="6" group-title="Федеральные",НТВ
+http://13.team.ga:80/ch2453/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvkkQiKUcNbxXIwhf8Pu3bcaZTAJGDZTBkYZD0iBOTYRE
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/68.png" tvg-name="ch068" timeshift="6" group-title="Федеральные",Пятый Канал
+http://13.team.ga:80/ch068/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvnMRHfhGUUGuSlfFBDT-DDMATq3oBqu3SVCfxOVJLbUU
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/102.png" tvg-name="ch102" timeshift="6" group-title="Федеральные",Россия-Культуpa
+http://13.team.ga:80/ch102/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvgSTQUetuHOxi_6xZpV6Hfs4l27tZs_gQzIUNmrZoqff
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/7.png" tvg-name="ch007" timeshift="0" group-title="Федеральные",Pоссия 24
+http://13.team.ga:80/ch007/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvu1K7njCVm8l-U6TwCQyLLqPHR_BjwxyZJHGRiLjAD-r
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/22.png" tvg-name="ch022" timeshift="6" group-title="Федеральные",ТВЦ HD
+http://13.team.ga:80/ch022/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvptDVX3o7RSy3ctlbw2KHMmkxk-nbqb5rcC0-SoDerEg
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/4.png" tvg-name="ch004" timeshift="6" group-title="Федеральные",Рен ТВ HD
+http://13.team.ga:80/ch004/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvtDp_DPGGjLBcORYegNhKJTcEVkvi3ryC0rGC465XHwN
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/21.png" tvg-name="ch021" timeshift="6" group-title="Федеральные",СТС HD
+http://13.team.ga:80/ch021/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvs0aSVxgztcTu7wS3sW0ZFc9r9wsLupaT8Cx6ZbtCINk
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/110.png" tvg-name="ch110" timeshift="6" group-title="Федеральные",Домашний
+http://13.team.ga:80/ch110/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvmG8xZZq17Wa0D3CE5nmmcGOL49GkLORpkGI5wdQ_sJz
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/24.png" tvg-name="ch024" timeshift="6" group-title="Федеральные",ТВ3
+http://13.team.ga:80/ch024/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvrznyv_Hm1dlMjaqKaqQ6LML3EqkOVDMWTqAmgFfOjSQ
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/25.png" tvg-name="ch025" timeshift="6" group-title="Федеральные",Пятница! HD
+http://13.team.ga:80/ch025/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvsGIo2kSeWZJ24B9ZxTxI97LUJ5Pek4iqn_yPqbfwiJL
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/23.png" tvg-name="ch023" timeshift="6" group-title="Федеральные",Звезда
+http://13.team.ga:80/ch023/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvhwqs_KkXqdfdypZwzQ_OHb42BvlCBmITOIzB70cXynn
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/724.png" tvg-name="ch724" timeshift="6" group-title="Федеральные",Звезда Плюс
+http://13.team.ga:80/ch724/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvj46U4xWEO9Cc_H7vQqz12f4mzOVsdLL6wbkvzDq89-T
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/1.png" tvg-name="ch001" timeshift="6" group-title="Федеральные",Первый HD
+http://13.team.ga:80/ch001/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvpqXI3nDAQRjVUi8BLBdfjJ2xV0dZwoSnl3KK2HpaLC6
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/2.png" tvg-name="ch002" timeshift="6" group-title="Федеральные",Россия 1 HD
+http://13.team.ga:80/ch002/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvn3zu1SCGlL_oZezrGJS0-JYI3JwdmPjT0UMM0U07Bc5
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/3.png" tvg-name="ch003" timeshift="6" group-title="Федеральные",НТВ HD
+http://13.team.ga:80/ch003/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvhSpR4nzmF1uPKaHEXWVXCEH1j_6EhWSxvhWbEQp9Ayk
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/5.png" tvg-name="ch005" timeshift="6" group-title="Федеральные",ТНТ HD
+http://13.team.ga:80/ch005/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvgEuwxsr9_dlP6vx_NMrHX2w5rUbUIByuBbNpfyzX2wc
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/649.png" tvg-name="ch649" timeshift="0" group-title="Федеральные",Первый Евpопa
+http://13.team.ga:80/ch649/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvvRDbx0VIpco2uwQ-ceoTHAzDUXglTpgFTQSofSXRxQQ
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/337.png" tvg-name="ch337" timeshift="6" group-title="Федеральные",РТР Планета
+http://13.team.ga:80/ch337/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvqUGK11OWR_v26CaaNhgw-beQ8FXsxmKFWj8RzC46SP5
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/3301.png" tvg-name="ch3301" timeshift="0" group-title="Федеральные",Первый HD TEST
+http://13.team.ga:80/ch3301/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvoSrgSke-Afk9U2Z0hHsJN7TYpQXPtwoUR6lvnvLjdlN
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/3302.png" tvg-name="ch3302" timeshift="0" group-title="Федеральные",Россия 1 HD TEST
+http://13.team.ga:80/ch3302/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvoBJqbUu39JxxrWOVazHoeAhuqcJbjdZ3jpzsw8pL8U_
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/88.png" tvg-name="ch088" timeshift="6" group-title="Новости",Дождь
+http://13.team.ga:80/ch088/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvrbfxmmDvRNxt5Fnka1Rptuk07T9kTR0IEgv4nWGXbV4
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/99.png" tvg-name="ch099" timeshift="0" group-title="Новости",РБК НD
+http://13.team.ga:80/ch099/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvrfv4EfCYscV9KfTEf5YoN5erhgwD5263SJ8q2zhKBFI
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/127.png" tvg-name="ch127" timeshift="0" group-title="Новости",RT HD
+http://13.team.ga:80/ch127/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvq_ub0g7oIXUGHR_lomwHzrvM7kwDMOFrcFXzMtfKVJd
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/498.png" tvg-name="ch498" timeshift="0" group-title="Новости",EuroNews
+http://13.team.ga:80/ch498/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvmffbwC5ThFoZeGTjJgnNJ8fsQxQkQUNN9tLyj-4WVjN
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/100.png" tvg-name="ch100" timeshift="0" group-title="Новости",RTVI
+http://13.team.ga:80/ch100/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvs90sMG9Nmojj_krw01gRlIzyGdwy3UC2DPIBEAQToFQ
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/528.png" tvg-name="ch528" timeshift="0" group-title="Новости",Нaстоящее время HD
+http://13.team.ga:80/ch528/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvr_El83BlsjuBYu5MTxRRRJ3SSUZS-WVqUBu6m8b8XwC
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/532.png" tvg-name="ch532" timeshift="0" group-title="Новости",360 Нoвости
+http://13.team.ga:80/ch532/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvlgm5HCd-BS7_TDOLaIpicAuAAvZCYwPywAeAa06aY6O
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/2117.png" tvg-name="ch2117" timeshift="6" group-title="Новости",CNBC HD
+http://13.team.ga:80/ch2117/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvp2mg5uraOzPTkJFF4p7oJ1HnETguXgiq3XXB51vFWnv
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/499.png" tvg-name="ch499" timeshift="0" group-title="Новости",BBC World News Europe
+http://13.team.ga:80/ch499/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvkJmWUHkU7I8-RE6XZ7G09nGfMtwgk65aT9xgy4SgLnu
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/6.png" tvg-name="ch006" timeshift="6" group-title="Новости",Москва 24
+http://13.team.ga:80/ch006/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvhNLigKGvLbee3CgVOjztiRurxo-Gc8-juNo-ycv6UpR
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/500.png" tvg-name="ch500" timeshift="0" group-title="Новости",CNN
+http://13.team.ga:80/ch500/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvnb1pCMb5sM9vxhlY-PQyiIVhkoVFpuZriIrAhbwI2if
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/2093.png" tvg-name="ch2093" timeshift="0" group-title="Новости",FOX News HD
+http://13.team.ga:80/ch2093/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvlze3tUJdiQ31s49GbA-P0I5cAvPqmefdGHhe7vzYWXS
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/1943.png" tvg-name="ch1943" timeshift="0" group-title="Новости",Asharq News
+http://13.team.ga:80/ch1943/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvvrCw4lAvfhJVhUpObX1RN-z0CprfuXsv6A8c4SGjcev
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/1944.png" tvg-name="ch1944" timeshift="0" group-title="Новости",France 24
+http://13.team.ga:80/ch1944/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvp6DO1NyOR_wImEHaEC8ssqYpuIegCzl28K6sHj7h4RT
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/1945.png" tvg-name="ch1945" timeshift="0" group-title="Новости",Al Jazeera
+http://13.team.ga:80/ch1945/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvo2sg3dW9qUenDCGVGSvL9eEslSZ8uSJrK-yolrC0pIW
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/1917.png" tvg-name="ch1917" timeshift="0" group-title="Новости",Bloomberg TV
+http://13.team.ga:80/ch1917/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqviR9IXX3uWTKRxtSaTbjCbQ2i2huK4IJlgmKMM1lWxWr
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/509.png" tvg-name="ch509" timeshift="0" group-title="Новости",Известия HD
+http://13.team.ga:80/ch509/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvsQlpJKivRfaAwYqWBSB4LWqG7Od81afIuaUl2Y-mV3Y
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/510.png" tvg-name="ch510" timeshift="0" group-title="Новости",Мир 24 HD
+http://13.team.ga:80/ch510/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvv8PZ3wTJ9ht67jUqTbMv3rjb7Bxq8GlgdPljVIgsyqr
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/132.png" tvg-name="ch132" timeshift="6" group-title="Фильмовые",Русский роман
+http://ru.team.ga:80/ch132/index.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvq9O-m4QqFUJ65elUqtKf4iKAsvoI6EUj_EAtItvAy3H
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/115.png" tvg-name="ch115" timeshift="6" group-title="Фильмовые",Русский бестселлер
+http://13.team.ga:80/ch115/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvj_LUF2x1O1vAfCn_M8DCtFFLmjUAVcCeETk5fENAw5t
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/101.png" tvg-name="ch101" timeshift="6" group-title="Фильмовые",Русский Иллюзион
+http://13.team.ga:80/ch101/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvm5fRD_srq_wJIpMymlF12cSt8g6sf5Jckyo2M7Gzbd-
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/462.png" tvg-name="ch462" timeshift="6" group-title="Фильмовые",Русский Детектив
+http://13.team.ga:80/ch462/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvnN6OXr6Qe-wajYtttCC1ME5qh41JjSJNg3NaiJf8tJ_
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/140.png" tvg-name="ch140" timeshift="6" group-title="Фильмовые",Душевное HD
+http://13.team.ga:80/ch140/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvnTpih0sqgjuZrx6lkc1JQ5ity4lqC3CJpc61u_7tI5A
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/98.png" tvg-name="ch098" timeshift="6" group-title="Фильмовые",Романтичное HD
+http://13.team.ga:80/ch098/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvvCSXtlcKqwBMeP44l3WL2P0pWcdHrFzFLlbpPBgrDjd
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/105.png" tvg-name="ch105" timeshift="6" group-title="Фильмовые",Русская комедия
+http://13.team.ga:80/ch105/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvrCYQr-bZHAV08cQkpYBKw-fi8F-z5dQSswF7GC7Bcqb
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/463.png" tvg-name="ch463" timeshift="6" group-title="Фильмовые",Любимое Кино HD
+http://13.team.ga:80/ch463/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvqnI14SQABPu-TWyic_KChOvEBvPUdy0UZHoRd98dl_m
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/8.png" tvg-name="ch008" timeshift="6" group-title="Фильмовые",Киносемья HD
+http://13.team.ga:80/ch008/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvumGCDor7y_ix02Jsb8AfXET3MZdkYQPz51qm12aHo8m
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/9.png" tvg-name="ch009" timeshift="6" group-title="Фильмовые",Кинохит HD
+http://13.team.ga:80/ch009/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvt10sQd4cD2lP0WnwsPK_xyanbRvHqw_C4PJMbASZWjP
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/10.png" tvg-name="ch010" timeshift="6" group-title="Фильмовые",Киносвидание HD
+http://13.team.ga:80/ch010/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvr83SNUo-CK_Mko8jeXKM7FOLfv32dSxn3pJF45jvciB
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/15.png" tvg-name="ch015" timeshift="6" group-title="Фильмовые",Наше новое кино
+http://13.team.ga:80/ch015/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvj-se3EF_LJGNSbvTAAk20gmEIwBdlH7SBLcVg4hK2GG
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/79.png" tvg-name="ch079" timeshift="6" group-title="Фильмовые",Киномикс HD
+http://13.team.ga:80/ch079/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvvMh_k4oe5LU1mhmn1leHFDo7Noy6qpjBT4AJ_6X2FQ1
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/54.png" tvg-name="ch054" timeshift="6" group-title="Фильмовые",Кинопремьера HD
+http://13.team.ga:80/ch054/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvjxZIuJbMbFZkpWsp_mNhGsF3UKL2Z4kAb4lNSxA3NTJ
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/112.png" tvg-name="ch112" timeshift="6" group-title="Фильмовые",Мужское кино HD
+http://13.team.ga:80/ch112/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvpk2OthB1VsADORu2J2q0UfTo4amAOvT29tt9VW6bL8D
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/116.png" tvg-name="ch116" timeshift="6" group-title="Фильмовые",Родное кино
+http://13.team.ga:80/ch116/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvoygSfT3SM7EO0Q8_KjbZhRVUY6YmPp-8jVEnoTYllW1
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/461.png" tvg-name="ch461" timeshift="6" group-title="Фильмовые",Индийское кино
+http://13.team.ga:80/ch461/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvs6U2r3r1FBbGGaRJKKXbD1jqrkvRq7mEsIuaZdVeLby
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/668.png" tvg-name="ch668" timeshift="6" group-title="Фильмовые",Киносерия HD
+http://13.team.ga:80/ch668/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvmoG0Q8f3qoQjHH-ViE88lU1rENpOA0NtwHlZTyLpEko
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/652.png" tvg-name="ch652" timeshift="6" group-title="Фильмовые",Киноужас HD
+http://13.team.ga:80/ch652/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvtRkvdw8ATe5YzfqjdUwL9Bspa6GVH8dSJzib2OTUu__
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/460.png" tvg-name="ch460" timeshift="6" group-title="Фильмовые",Кинокомедия HD
+http://13.team.ga:80/ch460/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvlXxT70R_KOcqVt7ejsVw7Ie9Ad-EQlG7SH-VP-8Bjkm
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/495.png" tvg-name="ch495" timeshift="0" group-title="Фильмовые",Start World HD
+http://13.team.ga:80/ch495/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvpAAB2_SsqLWkcuBSPMOsBR2f7Yl7xGEkx6HGJ_QzgEi
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/506.png" tvg-name="ch506" timeshift="0" group-title="Фильмовые",Start Air HD
+http://13.team.ga:80/ch506/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvtix2eE921xDAt45h5gUwPnIDdzTOrTAk0DE_R7XqESC
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/651.png" tvg-name="ch651" timeshift="6" group-title="Фильмовые",Viasat Kino World HD
+http://13.team.ga:80/ch651/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvvD0JWmR7la_MN-Hou7P1z7ucW4CH5iwVe4bhQRMtnUa
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/3079.png" tvg-name="ch3079" timeshift="2" group-title="Фильмовые",Viasat Kino Action HD
+http://13.team.ga:80/ch3079/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvqheX6UMGBwN3saOojIK_YWJ0fmonV_vz7yNa65Oujjn
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/3080.png" tvg-name="ch3080" timeshift="2" group-title="Фильмовые",Viasat Kino Comedy HD
+http://13.team.ga:80/ch3080/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvgJF-UgBq-p83rmx9rYFkGtTwjzedpvqlbuqJPGE0EeN
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/3082.png" tvg-name="ch3082" timeshift="2" group-title="Фильмовые",Viasat Kino Megahit HD
+http://13.team.ga:80/ch3082/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvmdGMWOuTYXNSUkZ3zwh5utQ4wgylcpVdKG-2a1-rrq1
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/3081.png" tvg-name="ch3081" timeshift="2" group-title="Фильмовые",Viasat Kino HD
+http://13.team.ga:80/ch3081/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvixSwBsBaFMsiDiAovSqwHci8FFhZaNLOUzqLaS7eVb0
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/17.png" tvg-name="ch017" timeshift="6" group-title="Фильмовые",Viju TV 1000 HD
+http://13.team.ga:80/ch017/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvsd6yFmLkelwk1vq552p6c2jmt4NdVb4KU82zd_QGK4D
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/18.png" tvg-name="ch018" timeshift="6" group-title="Фильмовые",Viju TV 1000 Action HD
+http://13.team.ga:80/ch018/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvj2RAUjnqxPjnm0gIE-sIr35XzYMaoY4ax1uWD3VJSxm
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/13.png" tvg-name="ch013" timeshift="6" group-title="Фильмовые",Viju TV 1000 Русское HD
+http://13.team.ga:80/ch013/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvsswpLhUQj4rjeVv_u0tAoPWLHkp89tTeTH-ZrJeC30u
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/3074.png" tvg-name="ch3074" timeshift="6" group-title="Фильмовые",Viju TV1000 Romantica HD
+http://13.team.ga:80/ch3074/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvtSFJOXemFstL2nhxMJBKeo6Nrkq0_7ekx4hjNqujOMX
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/3075.png" tvg-name="ch3075" timeshift="6" group-title="Фильмовые",Viju TV1000 Новелла HD
+http://13.team.ga:80/ch3075/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvkWU5DqmVHBaZ1624ds9sHpsHCsBrlsHWmsO_CSYf6Of
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/58.png" tvg-name="ch058" timeshift="6" group-title="Фильмовые",Viju+ Comedy HD
+http://13.team.ga:80/ch058/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvppcbBD8Ra0yC6k4d79VRioyTBuAbLBmFH7zU846ZzWn
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/60.png" tvg-name="ch060" timeshift="6" group-title="Фильмовые",Viju+ Premiere HD
+http://13.team.ga:80/ch060/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvoiMlm3htHJDVA-9sYYELY4L7n_kCt7rXTQPKWydKDEY
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/59.png" tvg-name="ch059" timeshift="6" group-title="Фильмовые",Viju+ Megahit HD
+http://13.team.ga:80/ch059/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvm6X248PkA7tgnwteRCd1aORzK8ZEqOsi4YXk-PFUz5g
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/701.png" tvg-name="ch701" timeshift="2" group-title="Фильмовые",Viju+ Serial HD
+http://13.team.ga:80/ch701/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvtkNWoD_VLR3fPhqFoPBeXhoFMYxX1dJLQxc33SHOSzj
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/2855.png" tvg-name="ch2855" timeshift="2" group-title="Фильмовые",Okko TV HD
+http://13.team.ga:80/ch2855/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvp8-gMBQWPuvBjIlDHKRiUAEPIDC8NPoX_Z7faWelHcS
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/1509.png" tvg-name="ch1509" timeshift="2" group-title="Фильмовые",Окко Герои HD
+http://13.team.ga:80/ch1509/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvrO3GYhSvYeR56DHa9a5159Sv7x1K7avteyG8p2FqHwK
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/421.png" tvg-name="ch421" timeshift="6" group-title="Фильмовые",Amedia 1 HD
+http://13.team.ga:80/ch421/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvsgQxBkaGgOtSr-Q7c-k6IAKUrYdtXxgja-5-xwH_KLH
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/515.png" tvg-name="ch515" timeshift="6" group-title="Фильмовые",Amedia 2 HD
+http://13.team.ga:80/ch515/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvjpQKz0vxUD4_F15b4I-lBPTaEae0NpNvQpWaINdmGwP
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/32.png" tvg-name="ch032" timeshift="6" group-title="Фильмовые",Amedia Hit HD
+http://13.team.ga:80/ch032/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvm9a2WJldLAPlisPyKpVaQF0nhYlg6aZ2jz9KzRmrFqs
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/65.png" tvg-name="ch065" timeshift="6" group-title="Фильмовые",Amedia Premium HD
+http://13.team.ga:80/ch065/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqviwMRTGCt09mX3vOJzN055jEMb7IUqBm--ciOESjvGOx
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/117.png" tvg-name="ch117" timeshift="0" group-title="Фильмовые",НСТ
+http://13.team.ga:80/ch117/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvv8mGTao782txSV3LbIVmNOcr_9gxu7lB3VrSuZ6lr7x
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/614.png" tvg-name="ch614" timeshift="0" group-title="Фильмовые",Арсенал HD
+http://13.team.ga:80/ch614/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqviccJ7r-aEZnMZU2lHusilx-ouXzg7ltuVPDTTRU1NYi
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/77.png" tvg-name="ch077" timeshift="4" group-title="Фильмовые",Кино ТВ HD
+http://13.team.ga:80/ch077/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvuZX9vehAXVTSZVM1JXDoiwuP1NQHunxb3FpSMiD8TL6
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/72.png" tvg-name="ch072" timeshift="6" group-title="Фильмовые",Остросюжетное HD
+http://13.team.ga:80/ch072/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvkpdTd27Vq6THTK2jDvQfYEi32J9TjMTa1dOjJdiP5GU
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/78.png" tvg-name="ch078" timeshift="6" group-title="Фильмовые",Дом Кино
+http://13.team.ga:80/ch078/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvmbUZY3Ybc5L960gFYJL3W3D50FjeUiHmuIf1v3NHbvX
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/80.png" tvg-name="ch080" timeshift="6" group-title="Фильмовые",Дом Кино Премиум HD
+http://13.team.ga:80/ch080/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqviH3P3cvtU8r1LlGHjJlqoEusOIydBht7Wvdl5Xq8mpY
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/33.png" tvg-name="ch033" timeshift="6" group-title="Фильмовые",ЕвроКино
+http://13.team.ga:80/ch033/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvsNm01VR57OE2DbinPL1YXs58txjghTgPcQNWL0_DzGM
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/636.png" tvg-name="ch636" timeshift="6" group-title="Фильмовые",Мир сериала HD
+http://13.team.ga:80/ch636/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvtGFH3ZiWbW0kIwG0Kkpuy8l4n8M8s3sUgxI42CKlqLf
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/620.png" tvg-name="ch620" timeshift="6" group-title="Фильмовые",НТВ Сериал
+http://13.team.ga:80/ch620/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvg4-qTtRVB0hmoWQDUSsCgQswx5GJOs2li9mtg4pcpaD
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/568.png" tvg-name="ch568" timeshift="6" group-title="Фильмовые",НТВ Хит
+http://13.team.ga:80/ch568/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvto-Dvb7R1INaxfnQXZ0VutpdS-9ZDtu85U-nY5sNGz0
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/103.png" tvg-name="ch103" timeshift="6" group-title="Фильмовые",Fox HD
+http://13.team.ga:80/ch103/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvlY37zy27BgROkVPbw7F0bSTjUmQDCVMjPcd8sKHbj7i
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/104.png" tvg-name="ch104" timeshift="6" group-title="Фильмовые",Fox life
+http://13.team.ga:80/ch104/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvimPJBGvPVG01voqHMtah9WB1SXiej89x8Ussfi3DtCk
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/470.png" tvg-name="ch470" timeshift="6" group-title="Фильмовые",Scream
+http://13.team.ga:80/ch470/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvkCNtnyBU5IEFZunC4GbPCytSRnP_Ps13kMUPw3H2O0f
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/38.png" tvg-name="ch038" timeshift="6" group-title="Фильмовые",Comedy Central
+http://13.team.ga:80/ch038/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvgmCh-6NnIK5Q0DnhICxVsYYfgH1_Tmp3WTIygQe5bwU
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/84.png" tvg-name="ch084" timeshift="6" group-title="Фильмовые",Премиальное HD
+http://13.team.ga:80/ch084/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvkLcJ1UwKeNqPmvnrLK0QZZqUjqWrRUHN5IQs2YiVdzN
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/114.png" tvg-name="ch114" timeshift="6" group-title="Фильмовые",Иллюзион+
+http://13.team.ga:80/ch114/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvqpucum3mO_kMY_oJB3aw4vhx0aB1W8uxEVMhOP68wUk
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/134.png" tvg-name="ch134" timeshift="6" group-title="Фильмовые",Шокирующее HD
+http://13.team.ga:80/ch134/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvp-EerLMo63gDGMaEkd6m-S9wwnzfbM8yBtZuVZGtgsI
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/136.png" tvg-name="ch136" timeshift="6" group-title="Фильмовые",Комедийное HD
+http://13.team.ga:80/ch136/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvh1GfYClHr8GCrY3z59T3DMbm7A-QGS1EbRrbvBGLYu8
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/2127.png" tvg-name="ch2127" timeshift="2" group-title="Фильмовые",Криминальное HD
+http://13.team.ga:80/ch2127/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvlnr9nc7w1zKmsMOXy0cVFYRLjkRCBh8sJnbolcmLmRk
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/131.png" tvg-name="ch131" timeshift="6" group-title="Фильмовые",Наше HD
+http://13.team.ga:80/ch131/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvqyP6OrRCuceqXE8ox82JjmSCpPppNlU8vOiEirevA77
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/139.png" tvg-name="ch139" timeshift="6" group-title="Фильмовые",Наше любимое HD
+http://13.team.ga:80/ch139/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvt8vAFvf8-dPYqhb3Dl_44KyiviaX5Ibn_Kq4DJwQxRY
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/714.png" tvg-name="ch714" timeshift="1" group-title="Фильмовые",Наш Кинопоказ HD
+http://13.team.ga:80/ch714/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvhG-dJy5i-WtfE5wPCNjqEDOojefXusULBcbLstOv7_e
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/589.png" tvg-name="ch589" timeshift="1" group-title="Фильмовые",Наше Мужское HD
+http://13.team.ga:80/ch589/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqviho-PCCWQCukzl9UczBQbR6Kp2ri6uSYMXKA1D5FrWG
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/326.png" tvg-name="ch326" timeshift="0" group-title="Фильмовые",Bollywood HD
+http://13.team.ga:80/ch326/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvtNtG5pDcdmTyVwbjENwj20iSdhDfRgyxEAVeIwl2BNh
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/66.png" tvg-name="ch066" timeshift="6" group-title="Фильмовые",Победа HD
+http://13.team.ga:80/ch066/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvqxnFy5qBcUb7KoKT3WzDApNkeJij0GNw57lGDc6yvCG
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/459.png" tvg-name="ch459" timeshift="6" group-title="Фильмовые",Plan B HD
+http://13.team.ga:80/ch459/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvoazADeTc960RTvErPFBp2DnhJPpGjYjjZWZCftg-nxF
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/464.png" tvg-name="ch464" timeshift="6" group-title="Фильмовые",.Sci-Fi
+http://13.team.ga:80/ch464/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvl2KYzFOkD_JK7AU8GwDecJS3KDZoT6bWrKmw8P4fSSy
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/465.png" tvg-name="ch465" timeshift="6" group-title="Фильмовые",.Black
+http://13.team.ga:80/ch465/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvjtHFBXrLhcXsP9M7n1o5ekR8HXqHXvglro9eld7sF8U
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/70.png" tvg-name="ch070" timeshift="6" group-title="Фильмовые",.Red HD
+http://13.team.ga:80/ch070/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvvSku7DUknUZXNDcjJhk6lTZS_phgV7x72HG6q8Ez2bL
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/466.png" tvg-name="ch466" timeshift="6" group-title="Фильмовые",Кинопоказ
+http://13.team.ga:80/ch466/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvvGfAkeekpyKDC9It2976N88P8JTELVD-pCprM0blGVx
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/467.png" tvg-name="ch467" timeshift="6" group-title="Фильмовые",Синема HD
+http://13.team.ga:80/ch467/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvtknEN1UhKmAZvQ8vcipMucPdQaNGI8H6rrD7MXRXuhd
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/468.png" tvg-name="ch468" timeshift="6" group-title="Фильмовые",Страшное HD
+http://13.team.ga:80/ch468/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvh9p7xisr4gsrTJIWTLfOL87_O7KL5niZfXdz6LoUvoU
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/469.png" tvg-name="ch469" timeshift="6" group-title="Фильмовые",TV XXI Век
+http://13.team.ga:80/ch469/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvhFlirHZHnfuMPH54XypnpPzjN_NJJLZJK_9erkRS2u2
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/501.png" tvg-name="ch501" timeshift="6" group-title="Фильмовые",Fan HD
+http://13.team.ga:80/ch501/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvmZIVYz0aVMO8--pxP6NkZn8z5i7jGK9OY8BIyWU0oLi
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/505.png" tvg-name="ch505" timeshift="6" group-title="Фильмовые",Феникс+ Кино
+http://13.team.ga:80/ch505/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvkCydgo7AEsQU_4v4QDgjR3gdq2sCdC2m-c-fsaXSXXU
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/508.png" tvg-name="ch508" timeshift="6" group-title="Фильмовые",Ретро
+http://13.team.ga:80/ch508/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvj6JW3DbT60exCbcHiLYjGYybPivjxAALHjMh66_hYGh
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/525.png" tvg-name="ch525" timeshift="6" group-title="Фильмовые",Hollywood HD
+http://13.team.ga:80/ch525/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvp1K6vaCU6Lkstf4GUBPO0n2s6rOIyTSV5WFOsfBIkC1
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/1675.png" tvg-name="ch1675" timeshift="0" group-title="Фильмовые",Hollywood
+http://13.team.ga:80/ch1675/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvhCm5_s-CC6pnm8klNPH6fn6mzNo4ZoQndmLFzs0BIzx
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/535.png" tvg-name="ch535" timeshift="6" group-title="Фильмовые",Дорама HD
+http://13.team.ga:80/ch535/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvlEi_re0p10fo97ggM_cRX8iNPF041egTZe8HLrUt01Z
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/537.png" tvg-name="ch537" timeshift="6" group-title="Фильмовые",Еврокино HD
+http://13.team.ga:80/ch537/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvuyklGKWdupttsP1vRK497xXT-DzgWKdDH1Gyw1JF-aG
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/543.png" tvg-name="ch543" timeshift="6" group-title="Фильмовые",Тайна
+http://13.team.ga:80/ch543/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqviwCMyB69xT7BwtNnw6ynxE3kjRWLDbmtEY79eFxipQ3
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/585.png" tvg-name="ch585" timeshift="6" group-title="Фильмовые",Star Family HD
+http://13.team.ga:80/ch585/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvvMUpcZqUPCBRBNll4Vv3xXCObP2TTEZScIeCRip2GXT
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/619.png" tvg-name="ch619" timeshift="6" group-title="Фильмовые",Киноман
+http://13.team.ga:80/ch619/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvqlSXYIUhEV8zamNaNIACQl8Z3U9FItlQHPzWNKS2HS2
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/684.png" tvg-name="ch684" timeshift="6" group-title="Фильмовые",FilmBox ArtHouse
+http://13.team.ga:80/ch684/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvqx1fDmgveTO9_D8z9ZTa5-ls1O9GbcpdFiC-7xqVkdV
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/689.png" tvg-name="ch689" timeshift="6" group-title="Фильмовые",Блокбастер HD
+http://13.team.ga:80/ch689/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvvBHmYUs44gvKarcgrz2FPV2pFSaU1RnOQQfhlplegbt
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/690.png" tvg-name="ch690" timeshift="6" group-title="Фильмовые",Про Любовь HD
+http://13.team.ga:80/ch690/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvuyvmiPCFvRHHBiIfjar2c2Ltd8R7RRvtcClXSgLWmrS
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/691.png" tvg-name="ch691" timeshift="6" group-title="Фильмовые",Хит HD
+http://13.team.ga:80/ch691/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvnuEO59cumMSw4KspjolbrZLL7AtJSai0yJu63D3WqnS
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/692.png" tvg-name="ch692" timeshift="6" group-title="Фильмовые",Камеди HD
+http://13.team.ga:80/ch692/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvm486aMpdGZgl1F9NcYt_vl6f-4-o-I0PYXmlhs2BZtG
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/703.png" tvg-name="ch703" timeshift="6" group-title="Фильмовые",День Победы HD
+http://13.team.ga:80/ch703/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqviwDhxW2aqYWdcDYtfif4tOawociACKNZSMj5iljJFuN
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/2615.png" tvg-name="ch2615" timeshift="2" group-title="Фильмовые",Патриот HD
+http://13.team.ga:80/ch2615/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvojPwg50HXVnKClW-CtpFOQQ8p44gMnFdMlx5HL799n3
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/709.png" tvg-name="ch709" timeshift="6" group-title="Фильмовые",FlixSnip HD
+http://13.team.ga:80/ch709/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvgOSe2E0OEFul59FfKFIUm2iKNqXToygF6x5FZVgsAsR
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/712.png" tvg-name="ch712" timeshift="6" group-title="Фильмовые",Shot
+http://13.team.ga:80/ch712/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvshHzniRxGJ8CfVEALuJphXKPjePp6NL_jeaiNbuoGiG
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/730.png" tvg-name="ch730" timeshift="6" group-title="Фильмовые",Trash HD
+http://13.team.ga:80/ch730/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvlgcFF1S0jQlFWQaY0MfEVfyfnzYHE4hS6uHXlo_GOZz
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/2069.png" tvg-name="ch2069" timeshift="2" group-title="Фильмовые",Kinoliving
+http://13.team.ga:80/ch2069/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvhNEuOQVrhe855en_KQTm3XpCMNGHB3YMTygLFH9x-OV
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/2077.png" tvg-name="ch2077" timeshift="2" group-title="Фильмовые",Сапфир HD
+http://13.team.ga:80/ch2077/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvuUIPUQc4Vap8UHFfUup2O2wtmnUtOkJtLM2UOOAHSAQ
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/2079.png" tvg-name="ch2079" timeshift="2" group-title="Фильмовые",Кинеко HD
+http://13.team.ga:80/ch2079/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvry46dquGTadWRYnXtOxlKfhOQVwtK_GCnYM-Q9JT2NU
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/1878.png" tvg-name="ch1878" timeshift="0" group-title="Фильмовые",Dizi
+http://13.team.ga:80/ch1878/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvvP_7qZLqQMtKeNYD1QtN-TBoNeplbewykwMEPeukOlr
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/382.png" tvg-name="ch382" timeshift="6" group-title="Фильмовые",KION Хит HD
+http://13.team.ga:80/ch382/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvlPdpRQld1VDKNiix5ScSsOrB0eKkjRZGT1Ofu7kekUP
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/383.png" tvg-name="ch383" timeshift="6" group-title="Фильмовые",VHS-ка HD
+http://13.team.ga:80/ch383/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvo7p0Jaznz3Id8J9ZCEAjn9X5f8jZOX3IvnddbWupk8V
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/384.png" tvg-name="ch384" timeshift="6" group-title="Фильмовые",4ever Drama HD
+http://13.team.ga:80/ch384/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvvv9z41Nmz2KDtL9KUqBvfTeqyY-wZBSZzlG0BNWDK60
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/385.png" tvg-name="ch385" timeshift="6" group-title="Фильмовые",4ever Theater HD
+http://13.team.ga:80/ch385/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvhVUfO7IyDS5lf5ZyYW-Qk0yThd6-vd4ZWFWdlLlPtRW
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/1116.png" tvg-name="ch1116" timeshift="0" group-title="Фильмовые",C More Hits HD
+http://13.team.ga:80/ch1116/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqviraLjOCi3eX0B90-G0eS4_1EbCTJved-frs3OP38-di
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/542.png" tvg-name="ch542" timeshift="3" group-title="Фильмовые",Киноджем 1 HD
+http://13.team.ga:80/ch542/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvrN-UuYtjsQigBER63KKJMOAbM_8La6UX35pTIuYnW31
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/521.png" tvg-name="ch521" timeshift="3" group-title="Фильмовые",Киноджем 2 HD
+http://13.team.ga:80/ch521/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvqxnAkfBw1pO1ApRKVn8DUvlFmeWXcwMybKsIGUQEswx
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/336.png" tvg-name="ch336" timeshift="6" group-title="Фильмовые",Мосфильм. Золотая коллекция HD
+http://13.team.ga:80/ch336/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvjifcF4qULnAguSR2RQbol3oxjEKoczkwJwUF7KX1K94
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/560.png" tvg-name="ch560" timeshift="6" group-title="Фильмовые",Индия HD
+http://13.team.ga:80/ch560/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvlscRCTUPx2BNYbovRxf7tH7AZSt1aZlka2xs7upLK7s
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/604.png" tvg-name="ch604" timeshift="6" group-title="Фильмовые",Болт HD
+http://13.team.ga:80/ch604/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvlvuvM7LtacqHfNP7v5NyaphMQCMlvmEzeIX4oRt21mR
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/623.png" tvg-name="ch623" timeshift="6" group-title="Фильмовые",AMC HD
+http://13.team.ga:80/ch623/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvjxcFwL4eni_yRxGtMkCHNX9FeFJCmJzhjFRbW62xpnQ
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/681.png" tvg-name="ch681" timeshift="6" group-title="Фильмовые",Epic Drama
+http://13.team.ga:80/ch681/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvm6Q1ZI3O6zJTaY21vvc9z90WgfU0zRodf8tormMloGK
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/3130.png" tvg-name="ch3130" timeshift="3" group-title="Сериалы",Gold Line Невский HD
+http://13.team.ga:80/ch3130/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvpxFGRLao3sMopltSw_vPYMmUQn4xqYQwRnU91KNkcGg
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/1326.png" tvg-name="ch1326" timeshift="2" group-title="Сериалы",CineMan ПёС
+http://13.team.ga:80/ch1326/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvq4cAUajpjaCO3UsjNRChkAbz5amkmVCqlInancn3Xe_
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/1325.png" tvg-name="ch1325" timeshift="2" group-title="Сериалы",CineMan Ментовские войны
+http://13.team.ga:80/ch1325/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvuviRwV1xlhZ0kqMeYMQYJgxiYdbD0EJiiC4Q31K0ldB
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/1327.png" tvg-name="ch1327" timeshift="2" group-title="Сериалы",CineMan Лесник
+http://13.team.ga:80/ch1327/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvvvQiLl1T0qKPrpX4nH_AaBHkTcwH5GYxUWTk-KpJQq_
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/3129.png" tvg-name="ch3129" timeshift="3" group-title="Сериалы",Gold Line Детектив HD
+http://13.team.ga:80/ch3129/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvt-sqjsaxM9MF0EfffAeJnAdvJ3hVT1JtOq1eBoHpyaf
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/2126.png" tvg-name="ch2126" timeshift="2" group-title="Спорт",Матч! SD
+http://13.team.ga:80/ch2126/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvvYGTXpMm7bpmlH4u72TXVXGPar1652CFS0acABCl-KM
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/2123.png" tvg-name="ch2123" timeshift="2" group-title="Спорт",Матч! Футбол 1 SD
+http://13.team.ga:80/ch2123/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqviiyv2u0pcAvSNc_ji2sOXrObSjz1gzRaX9YEP6ypw5d
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/2124.png" tvg-name="ch2124" timeshift="2" group-title="Спорт",Матч! Футбол 2 SD
+http://13.team.ga:80/ch2124/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqviWcLmftPnu4h4cSbGoIVF3CBJ1WuWTcKx-2xXibt3Tf
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/2125.png" tvg-name="ch2125" timeshift="2" group-title="Спорт",Матч! Футбол 3 SD
+http://13.team.ga:80/ch2125/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvn4WMEnYGZZ8xoISoEnzr4NTRqVWbrH8Q5OIjoRLOREm
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/2005.png" tvg-name="ch2005" timeshift="2" group-title="Спорт",Матч! Премьер SD
+http://13.team.ga:80/ch2005/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvpgvgow3wSpxboxs_tJRMc-6KSxZv-g73DQdTSFlkN5E
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/3304.png" tvg-name="ch3304" timeshift="2" group-title="Спорт",Матч! Игра SD
+http://13.team.ga:80/ch3304/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvgM2WRS57i3AmvyeUAdCdUz_pQ_WOapy7Qd-HCZZIg9O
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/708.png" tvg-name="ch708" timeshift="0" group-title="Спорт",Мяч HD
+http://13.team.ga:80/ch708/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvqP_2AtVL3cELgWtwOrKL0UJ-pksqg6o7BwZRcN3t4ZL
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/447.png" tvg-name="ch447" timeshift="0" group-title="Спорт",ТВ Спорт HD
+http://13.team.ga:80/ch447/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvgvWVEGz7O6uANJiPtRZjYYjvX3gjZvKT0I5RarrCoCD
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/663.png" tvg-name="ch663" timeshift="0" group-title="Спорт",Хоккей ТВ HD
+http://13.team.ga:80/ch663/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvlYVB5pBDbXHdfc5QuHo46FIp0qyn3Y2SQ-yju-LRdqo
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/476.png" tvg-name="ch476" timeshift="0" group-title="Спорт",Extreme Sports
+http://13.team.ga:80/ch476/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvrUmOze_fInTVohME6QsPJTuJdfpThy_NrlQ8jaA9-22
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/530.png" tvg-name="ch530" timeshift="0" group-title="Спорт",Живи!
+http://13.team.ga:80/ch530/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvjDXj-IgQuZ0KpJbgzCjPsImc4dUZw4hKdD1ySiWsf9d
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/1880.png" tvg-name="ch1880" timeshift="0" group-title="Спорт",Живи Активно HD
+http://13.team.ga:80/ch1880/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvs8I_k197SJ7CPSfVIfZhK5gp6PSJo3Yrzxt91qWe5ma
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/536.png" tvg-name="ch536" timeshift="0" group-title="Спорт",Драйв
+http://13.team.ga:80/ch536/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvndMsB4mDpXc57AIrWHteXU16gIRZdVEp8sey_3HojFX
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/662.png" tvg-name="ch662" timeshift="0" group-title="Спорт",Старт HD
+http://13.team.ga:80/ch662/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvmvyvyywuMB7PB_MXeDGEEbrMQS0YFImz_NW3euL2BJV
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/2502.png" tvg-name="ch2502" timeshift="3" group-title="Спорт",Старт Триумф HD
+http://13.team.ga:80/ch2502/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvodvRhQ5IBMKtIGOIZd5DDx92G3UItIoGZt-CYcB2dAh
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/567.png" tvg-name="ch567" timeshift="0" group-title="Спорт",Мир Баскетбола
+http://13.team.ga:80/ch567/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvimNmhXzovcsXsJ_dRrpUOrNYqoqwlaHsalvrkPRsE5z
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/2810.png" tvg-name="ch2810" timeshift="3" group-title="Спорт",Box AutoTrend HD
+http://13.team.ga:80/ch2810/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvqXVYWDOy7GVRlFZK3-1oemT39zTLivB26SZ4KOyRh9y
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/2282.png" tvg-name="ch2282" timeshift="3" group-title="Спорт",Box Be ON Edge HD
+http://13.team.ga:80/ch2282/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvn-z7Q2mMQmMCE4Tkop88X8eyD7_D0MKZ9LKm-UbEFxd
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/2283.png" tvg-name="ch2283" timeshift="3" group-title="Спорт",Box Be ON Edge 1 Live HD
+http://13.team.ga:80/ch2283/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvrVBqWj4amFdjaFbTPuOU7UJEJ2DinHxCkikccTP7Qz1
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/2284.png" tvg-name="ch2284" timeshift="3" group-title="Спорт",Box Be ON Edge 2 Live HD
+http://13.team.ga:80/ch2284/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvjshGzo2mEoct5KoObGKwdZaCnAoznHn1JJP86oJH7SJ
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/711.png" tvg-name="ch711" timeshift="2" group-title="Спорт",Box Be ON Edge Live 3 HD
+http://13.team.ga:80/ch711/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvu0A64vRlQHd8QKRdVKsBMvW5Mq3atVNpGNvkx7rX4FC
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/2467.png" tvg-name="ch2467" timeshift="3" group-title="Спорт",Box Sport Cast HD
+http://13.team.ga:80/ch2467/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvtIv8Ud6oHKvfHAwK4T-v2gGpA4CeBnuyTDXomq-oEr9
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/2336.png" tvg-name="ch2336" timeshift="3" group-title="Спорт",Box Sport Cast 1 Live
+http://13.team.ga:80/ch2336/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvrtTC9M0wSu-r6n6lK2TFRqpi9q24jx2VCLFP-Ebe2lY
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/2337.png" tvg-name="ch2337" timeshift="3" group-title="Спорт",Box Sport Cast 2 Live
+http://13.team.ga:80/ch2337/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvle7f1Vt1YDo_jfwY8aYAGDNXFBoo9x1WTImoQ686rhQ
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/2338.png" tvg-name="ch2338" timeshift="3" group-title="Спорт",Box Sport Cast 3 Live
+http://13.team.ga:80/ch2338/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqviWmCW8A0tNea6BI4PEhlTqNsb_GtNZgDnG9v-Zi20m6
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/2339.png" tvg-name="ch2339" timeshift="3" group-title="Спорт",Box Sport Cast 4 Live
+http://13.team.ga:80/ch2339/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvq2531GUNVh8WbBx-09B2CbTG8-fyVg3ZrhCVDUGgqBc
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/2340.png" tvg-name="ch2340" timeshift="3" group-title="Спорт",Box Sport Cast 5 Live
+http://13.team.ga:80/ch2340/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvjcsqI5GtMVSYwDYEa7wUI_jI1louCInb7NvQxoQ4DXY
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/2465.png" tvg-name="ch2465" timeshift="0" group-title="Спорт",Box Sport Cast 6 Live
+http://13.team.ga:80/ch2465/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvueCWOOfk93fU-tqF_SLeMxMZee5fQpQMDjO460pLa13
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/2466.png" tvg-name="ch2466" timeshift="0" group-title="Спорт",Box Sport Cast 7 Live
+http://13.team.ga:80/ch2466/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvrtvd-oxJy858Vb8mcJKZMD7x4IzJbZ6uJ3QhjCO5dt6
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/1819.png" tvg-name="ch1819" timeshift="0" group-title="Спорт",Box Sport Cast Live 8
+http://13.team.ga:80/ch1819/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvsQr1GwmDzky0O7lP0g_SMrVqMxVbAmI6xdtbMMBgeEt
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/700.png" tvg-name="ch700" timeshift="0" group-title="Спорт",Box Sport Cast Live 9
+http://13.team.ga:80/ch700/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvofxomMGUg1XfI_QqPbymWvAeQ1cvm39eHi_0O1jTrXc
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/1768.png" tvg-name="ch1768" timeshift="3" group-title="Спорт",Liberty Автогир FHD
+http://13.team.ga:80/ch1768/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvj3wkC-tnrAZZcaRnJnfwhvtcLNrDYq22Kj2cxOk8IaT
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/2923.png" tvg-name="ch2923" timeshift="0" group-title="Спорт",CineMan Фитнес
+http://13.team.ga:80/ch2923/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvlgaAysW1DnxOtweO6x1CHztNNnNG9VRnZQ8ShLSvAeG
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/2036.png" tvg-name="ch2036" timeshift="0" group-title="Спорт",Velilla TV Legendary Matches HD
+http://13.team.ga:80/ch2036/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvrsLSE_yoGlSKVoCrDdtFNZFTk9YlB4Ib2adQfDgv_Rr
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/3112.png" tvg-name="ch3112" timeshift="0" group-title="Спорт",Velilla TV World Cup 1970
+http://13.team.ga:80/ch3112/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvthekQTCEr0VRU_b65HeC9onkrWZIvE4JWRqMjEjj25l
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/828.png" tvg-name="ch828" timeshift="0" group-title="Спорт",Velilla TV World Cup 1974
+http://13.team.ga:80/ch828/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvjKa9Vs1pnJavL1mJgnMz19aQxBThK1nkTB1hRmpynl6
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/2116.png" tvg-name="ch2116" timeshift="0" group-title="Спорт",Velilla TV World Cup 1978
+http://13.team.ga:80/ch2116/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqviQXDIkmGVv6fB48CslNnWCCgRC3lvvhyJIHC3OPlk7K
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/3155.png" tvg-name="ch3155" timeshift="0" group-title="Спорт",Velilla TV EuroCup 1984
+http://13.team.ga:80/ch3155/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvjcj5v1GF-womOVvnWnfZpypwCVLAzKsJ2mNFz3qh-OZ
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/3156.png" tvg-name="ch3156" timeshift="0" group-title="Спорт",Velilla TV EuroCup 1988
+http://13.team.ga:80/ch3156/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvrmqOQcBdpIfyTUHQOEIXs61bXbioJnHCgTiJjmWTHWo
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/1088.png" tvg-name="ch1088" timeshift="0" group-title="Спорт",Velilla TV EuroCup 1992
+http://13.team.ga:80/ch1088/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvp2JKA-Eygb2-zwmNScKTt_nS4f-dRMdPCkFuqxnN4Qs
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/3157.png" tvg-name="ch3157" timeshift="0" group-title="Спорт",Velilla TV World Cup 1994
+http://13.team.ga:80/ch3157/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvi6gboQxuPAXkMV3Io_DDEwMwjXRIssYl7PcfWJKlfXe
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/3158.png" tvg-name="ch3158" timeshift="0" group-title="Спорт",Velilla TV World Cup 2006
+http://13.team.ga:80/ch3158/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvojEsoByR2IJb-VAE7StM2VcjHR9y_lJl55WnSq_eOap
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/3159.png" tvg-name="ch3159" timeshift="0" group-title="Спорт",Velilla TV World Cup 2010
+http://13.team.ga:80/ch3159/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvjAmMZyJrvYePH6fQMKq1Jb3flw0MrISg2sTiTbGlHyn
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/3160.png" tvg-name="ch3160" timeshift="0" group-title="Спорт",Velilla TV World Cup 2014
+http://13.team.ga:80/ch3160/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvguD8uTaTUzzDkdveLkTergMQgN7NE6ZlEUajsGgKo_U
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/3161.png" tvg-name="ch3161" timeshift="0" group-title="Спорт",Velilla TV World Cup 2018
+http://13.team.ga:80/ch3161/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqviU4A73Yq1nGDslvV6mRZu0ei0svxEPIXq8TChFC3LuQ
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/3297.png" tvg-name="ch3297" timeshift="0" group-title="Спорт",Velilla TV World Cup 1998
+http://13.team.ga:80/ch3297/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvqhUp650QXK2v7AgeQn7rOTieSL5lOKOirvildlw3tvd
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/47.png" tvg-name="ch047" timeshift="2" group-title="Природа",Nat Geo Wild HD
+http://13.team.ga:80/ch047/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvt9UErirU7BPdfdqQU9X4gb3cQGxMv0BISl9iNmyf668
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/12.png" tvg-name="ch012" timeshift="0" group-title="Природа",Viju Nature HD
+http://13.team.ga:80/ch012/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqviYarfPL57zROI9firnnY75jL_x5yIsHNUG3PJMYoIyU
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/2454.png" tvg-name="ch2454" timeshift="3" group-title="Природа",Viju+ Planet HD
+http://13.team.ga:80/ch2454/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvvT8dciP5Fjil4PsKHi6G5Ia-cTaaXqoxJLFnF-9YvZq
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/124.png" tvg-name="ch124" timeshift="3" group-title="Природа",Animal Planet HD
+http://13.team.ga:80/ch124/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvvqWHYeDlUrItlV3wuVvP83migvDW-sy5NjDWlXME-yw
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/1916.png" tvg-name="ch1916" timeshift="2" group-title="Природа",Big Planet HD
+http://13.team.ga:80/ch1916/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvuChzq-Yu_CBgo5k6zwR6HFbmZnblbUB3A2NT8LdDsxR
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/504.png" tvg-name="ch504" timeshift="0" group-title="Природа",Усадьба
+http://13.team.ga:80/ch504/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvqKSW0rCNWosQOozy5xs5HhJwW-7hTcy_XwrKrdrOWiv
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/67.png" tvg-name="ch067" timeshift="0" group-title="Природа",Диалоги о рыбалке HD
+http://13.team.ga:80/ch067/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvk65md1AKtIdiBp75fgKP_4w9BfeGXqM1F1n6JyCFmgn
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/69.png" tvg-name="ch069" timeshift="0" group-title="Природа",Дикий
+http://13.team.ga:80/ch069/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvmR9G6KGbsnnwv2ilxMS_l7gjTKLXTrc0X5WiiYp8Y-R
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/640.png" tvg-name="ch640" timeshift="0" group-title="Природа",Наша сибирь HD
+http://13.team.ga:80/ch640/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvlNpThOattwd-O66e4ZLQYtSB1M63F-IRtInsrRPG94p
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/85.png" tvg-name="ch085" timeshift="0" group-title="Природа",Охотник и рыболов HD
+http://13.team.ga:80/ch085/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvsgUPzf9KqVBHgeUnt4SHCm1cCGHoz0KVNig2I6KZDLy
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/141.png" tvg-name="ch141" timeshift="2" group-title="Природа",В мире животных HD
+http://13.team.ga:80/ch141/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqviRrcXrEwlR_wGV1HqR4-GWH5M0yURy0X_YzAhmLtoe-
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/448.png" tvg-name="ch448" timeshift="0" group-title="Природа",Охота и рыбалка
+http://13.team.ga:80/ch448/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvjMNkOQg2ra9fyEbnT37cYiIMs7tkr23QLWlWGmlZeWc
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/449.png" tvg-name="ch449" timeshift="0" group-title="Природа",Дикая Охота HD
+http://13.team.ga:80/ch449/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvungZFigkJJJxcN5AS3YdN2x2T_0r0JWy5q_JVIVr-uN
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/450.png" tvg-name="ch450" timeshift="0" group-title="Природа",Дикая Рыбалка HD
+http://13.team.ga:80/ch450/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvgDfW1eKewrlwgRWfrlVyDSP7IxOOiUOTVFtNtWSV3Uh
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/626.png" tvg-name="ch626" timeshift="0" group-title="Природа",Домашние животные
+http://13.team.ga:80/ch626/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvrv07aMiV5HYb-bJtRfiSmLn0NTrfm74TMKKX6YZtUUQ
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/452.png" tvg-name="ch452" timeshift="0" group-title="Природа",Живая природа HD
+http://13.team.ga:80/ch452/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvuaOuH73E49gbOcwULfP05BGDsk2St7nBuN67pOzTP8T
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/453.png" tvg-name="ch453" timeshift="0" group-title="Природа",Живая Планета
+http://13.team.ga:80/ch453/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvtWKCAsaWHq0FJDOrvgx3_QCDgm-PeIDVINC0hyHU5Eq
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/624.png" tvg-name="ch624" timeshift="0" group-title="Природа",Загородный
+http://13.team.ga:80/ch624/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvvmtWkxeISGKBsXs0dba64NoGMmoaiuxUAijcUujxH4m
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/667.png" tvg-name="ch667" timeshift="0" group-title="Природа",Загородный int HD
+http://13.team.ga:80/ch667/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvlN0mtk6c3yZZzIrGddsWWcUCeejN-YspnGOiObl-MOA
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/627.png" tvg-name="ch627" timeshift="0" group-title="Природа",Зоопарк
+http://13.team.ga:80/ch627/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvuH9P_GmjeyOt511IDjNKLo3sDGae-IKbQoS4H6E2tWL
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/728.png" tvg-name="ch728" timeshift="0" group-title="Природа",Ocean TV
+http://13.team.ga:80/ch728/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvhEVXBo271jKazttXImpcdQLH1KQibd9TeXhsjs8E4Xw
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/1271.png" tvg-name="ch1271" timeshift="3" group-title="Природа",MM Live Planet HD
+http://13.team.ga:80/ch1271/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvicrJM7HPub1K3AnkiWRY7_lc0GWg8VmYikUfxRj-aGE
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/1585.png" tvg-name="ch1585" timeshift="3" group-title="Природа",MM Микромир HD
+http://13.team.ga:80/ch1585/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvgD4aaNDJQUwoq2DTd1Ket-ikMKd8D2A2Xyej3OSiQea
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/1586.png" tvg-name="ch1586" timeshift="3" group-title="Природа",MM Макромир HD
+http://13.team.ga:80/ch1586/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvsxLtaxxg9JuGCwI-ko4J8A1G5quMnpV0JfmyaBE4RIb
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/1587.png" tvg-name="ch1587" timeshift="3" group-title="Природа",MM Мегамир HD
+http://13.team.ga:80/ch1587/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvhx-k73Bz9h_0abDxIpjRrsKOLPB69PnQAgSfqMn0CPW
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/1750.png" tvg-name="ch1750" timeshift="3" group-title="Природа",Liberty BBC FHD
+http://13.team.ga:80/ch1750/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvrisF30LDCl8ZX08H_HZtSR44eqwkdA9U60tbdukRJRx
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/1758.png" tvg-name="ch1758" timeshift="3" group-title="Природа",Liberty Планета360 FHD
+http://13.team.ga:80/ch1758/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvt1u-lkmvW_1I5WGpJURCTzOqmqEpeo4vYkNvab_arNI
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/1979.png" tvg-name="ch1979" timeshift="3" group-title="Природа",Sky High Nature HD
+http://13.team.ga:80/ch1979/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvs-GYBvtJ94TDl8VL9WQ1q3GRHhQmNAr5Eg66dsKP1rM
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/2604.png" tvg-name="ch2604" timeshift="2" group-title="Природа",Yosso TV Nature
+http://13.team.ga:80/ch2604/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvknToH56xaoeUx6xgF-3PNTkrbV8LVmVOodicUb14W4i
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/2648.png" tvg-name="ch2648" timeshift="3" group-title="Природа",Oasis Animals
+http://13.team.ga:80/ch2648/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvmB9ISyqQK2hO4PW0gBPX8xIfWfLSEXJToze1JUVnJln
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/2664.png" tvg-name="ch2664" timeshift="3" group-title="Природа",Oasis Рыбалка
+http://13.team.ga:80/ch2664/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvqpcANW24emAMEWnAHkPnOrgxePpR02Dz-1HuSi4qaoD
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/2679.png" tvg-name="ch2679" timeshift="3" group-title="Природа",Oasis Наша Планета
+http://13.team.ga:80/ch2679/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvnTuzqUXfmB5N7WJSvi5NT0EBfRS1F5KKgrSMbTT7AK8
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/2691.png" tvg-name="ch2691" timeshift="3" group-title="Природа",Oasis Выживание
+http://13.team.ga:80/ch2691/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvjeVA2HV3tQWE_bQb706Q3ptwHxNiSg9XWGTgV-saH7g
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/2692.png" tvg-name="ch2692" timeshift="3" group-title="Природа",Oasis Выжить Вместе
+http://13.team.ga:80/ch2692/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvjKsb-1FNA2-WdqV3uTlJA9lxj4N7rTeevn5qYjBkX97
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/2847.png" tvg-name="ch2847" timeshift="3" group-title="Природа",KBC-Animals HD
+http://13.team.ga:80/ch2847/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvi76xrr1wcfpj3kGm67nDR3K7NafofaxGB9RggpEvK7g
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/48.png" tvg-name="ch048" timeshift="0" group-title="Природа",Точка отрыва
+http://13.team.ga:80/ch048/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvlJPlth1GAQ4pfcj2aTo8OjSFQK4_JdtiMV1uJlWXu3S
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/2881.png" tvg-name="ch2881" timeshift="0" group-title="Природа",Загородная жизнь
+http://13.team.ga:80/ch2881/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvs3m9QQjgF4TLuqBm9Dlw3Ats6yBAUao2oZbUXO0hv6L
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/125.png" tvg-name="ch125" timeshift="2" group-title="Познавательные",National Geographic HD
+http://13.team.ga:80/ch125/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvuqhrEPQt784InkjgFuDSZ5ZbDYNwIjZvvCeysJ_jxqj
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/126.png" tvg-name="ch126" timeshift="2" group-title="Познавательные",Viju History `HD
+http://13.team.ga:80/ch126/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvgUX3gkrDUrd2XQEU8e6z4_4aiTOoglbcNt40orA-b6n
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/11.png" tvg-name="ch011" timeshift="0" group-title="Познавательные",Viju Explore HD
+http://13.team.ga:80/ch011/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvvoC2DJV4zMuKz2xLuRsRS_nlCXhzAf_MdxvzdbhOCnU
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/456.png" tvg-name="ch456" timeshift="0" group-title="Познавательные",Авто плюс HD
+http://13.team.ga:80/ch456/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvqQ7BYtG1bbY0c2o41x-hB6gY-_IrO9IFCuCqEW2E3Co
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/16.png" tvg-name="ch016" timeshift="0" group-title="Познавательные",АВТО 24
+http://13.team.ga:80/ch016/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvhZYUyBLkwxiEGLy6SSzeTR3m2ez4VLC5AK4VB3gViKT
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/123.png" tvg-name="ch123" timeshift="2" group-title="Познавательные",Discovery Channel HD
+http://13.team.ga:80/ch123/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvhQLZihGyXvSQItYs6IsDrYuIIB-87XncJDYO6K4zb46
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/142.png" tvg-name="ch142" timeshift="2" group-title="Познавательные",Моя Планета HD
+http://13.team.ga:80/ch142/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvp4eJVlwrUwMivPWyIt6MBbb-Gl3In7gGjoz9I0rflZc
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/143.png" tvg-name="ch143" timeshift="0" group-title="Познавательные",Приключения HD
+http://13.team.ga:80/ch143/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvl_2W8lkI2sTrRzT2CqojsSrM_Vynoqv7g4-GvQ4NdRK
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/327.png" tvg-name="ch327" timeshift="0" group-title="Познавательные",Оружие
+http://13.team.ga:80/ch327/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvuBfMPjYxzgDW5E2XIR_xVJDON5FPzjoRT_FnsdJslb_
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/432.png" tvg-name="ch432" timeshift="1" group-title="Познавательные",History HD
+http://13.team.ga:80/ch432/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvh7o4sAM8-WWti6hIY2dzuaTNCYdKlXTLg8k8qVz1_D6
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/433.png" tvg-name="ch433" timeshift="0" group-title="Познавательные",History2 HD
+http://13.team.ga:80/ch433/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvtybjYhqnilS6MHMP5qoXqmKtexm0taM2LomejCVVLb-
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/435.png" tvg-name="ch435" timeshift="0" group-title="Познавательные",TLC HD
+http://13.team.ga:80/ch435/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvrK4uqSX-wmYE5KXp547pNbDpr2R_uHBe_5Ladim3A6N
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/436.png" tvg-name="ch436" timeshift="0" group-title="Познавательные",Космический HD
+http://13.team.ga:80/ch436/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvvL4HlLrThONydpQ7nYAPYhUzaLsyWluJj0PpP61Kmx2
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/437.png" tvg-name="ch437" timeshift="0" group-title="Познавательные",Нано HD
+http://13.team.ga:80/ch437/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvh2v8cgw5fr3ejfAckluympnruc3PHf-Yauzi3I5FDAr
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/438.png" tvg-name="ch438" timeshift="0" group-title="Познавательные",Техно 24
+http://13.team.ga:80/ch438/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvgyPLyI-zTnXdoZvunWHReg_mVxOj08nl6UpLb7smMoy
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/441.png" tvg-name="ch441" timeshift="0" group-title="Познавательные",Da Vinci
+http://13.team.ga:80/ch441/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvlDcZVwmZjdUan9Ac7MzfzuyWqvjlvWCdGd7k-fnQjNx
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/443.png" tvg-name="ch443" timeshift="0" group-title="Познавательные",365 дней ТВ
+http://13.team.ga:80/ch443/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvvIJcL5J3AiPFkalf4veo49xu0AhM6oruqAMoGYQSJdf
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/629.png" tvg-name="ch629" timeshift="0" group-title="Познавательные",RTG TV
+http://13.team.ga:80/ch629/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvreFAEMIJ-HVIUDb_Wt2lwhvjyvwsizwMpUONiC83YG0
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/444.png" tvg-name="ch444" timeshift="2" group-title="Познавательные",RTG HD
+http://13.team.ga:80/ch444/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvtekq0KTdYcDGwVsFIAiArVxAEWWltUwOPG1GLT77M42
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/445.png" tvg-name="ch445" timeshift="0" group-title="Познавательные",Travel Channel HD
+http://13.team.ga:80/ch445/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvlK2lmIaXKjsDhdWENQbHnZaWUg-rR2QJ9X6U9h_B_dN
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/446.png" tvg-name="ch446" timeshift="0" group-title="Познавательные",Travel+Adventure HD
+http://13.team.ga:80/ch446/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvr9LoV6l_of2kETRkl4fFSXyDklXU3ah0vizFEhV_itz
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/520.png" tvg-name="ch520" timeshift="0" group-title="Познавательные",Пёс и Ко
+http://13.team.ga:80/ch520/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvizDwz5gCq2TMcKLqD-PTSeASimWTRsJhQUwX7QlSMXE
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/522.png" tvg-name="ch522" timeshift="0" group-title="Познавательные",Мужской
+http://13.team.ga:80/ch522/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvv2E0C39d7vNblRnH-ZbA9jfQ00J9FcpdJF5jBhg9Prk
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/533.png" tvg-name="ch533" timeshift="0" group-title="Познавательные",Большая Азия HD
+http://13.team.ga:80/ch533/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvgLlq33MWbDqA4ec7KVz7CFufeAG1PdD7chrrjSLRuns
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/539.png" tvg-name="ch539" timeshift="0" group-title="Познавательные",Здоровое ТВ
+http://13.team.ga:80/ch539/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvg19Xa2K2FDGXe37b8Zsa6sf_NFQFhCoSyPZnVnCrH6Z
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/630.png" tvg-name="ch630" timeshift="0" group-title="Познавательные",Телекафе
+http://13.team.ga:80/ch630/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvsNEcGUGCPV4mohBCE-Nm03aDw_3pwjweZnOHaRQonW0
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/632.png" tvg-name="ch632" timeshift="0" group-title="Познавательные",Глазами туриста HD
+http://13.team.ga:80/ch632/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvpilbn7aIjUPVJ1Q4ozrzBrSK-w66oYXqco9An-vq8JA
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/656.png" tvg-name="ch656" timeshift="3" group-title="Познавательные",DocuBox HD
+http://13.team.ga:80/ch656/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvjsoOPdt87pHi5RmgQzK-9FgwFm5JSUrWAjqsh-SxWSW
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/659.png" tvg-name="ch659" timeshift="0" group-title="Познавательные",Телепутешествия
+http://13.team.ga:80/ch659/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvlMmZU9kqSF2cxPQAIcrFLm-OZIj1inhEjJgIDS7y9L1
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/664.png" tvg-name="ch664" timeshift="0" group-title="Познавательные",Мир Вокруг HD
+http://13.team.ga:80/ch664/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvkkH7otS08do4rtzX12e8lOpgyG9uHefStaekYaJxLeN
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/710.png" tvg-name="ch710" timeshift="0" group-title="Познавательные",Поехали! HD
+http://13.team.ga:80/ch710/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvpCqrxQTreRREoSXkfnBL2qR33rtz3xNe-eyoI5NK_cx
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/718.png" tvg-name="ch718" timeshift="0" group-title="Познавательные",Smartzone HD
+http://13.team.ga:80/ch718/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvsqFSo0uC-3nOraKyvezIIshxP0PiYZin65Ois74JKX6
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/719.png" tvg-name="ch719" timeshift="0" group-title="Познавательные",КтоКуда
+http://13.team.ga:80/ch719/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvnq0p8HtKz0wi_5Z3SsWxAbjtGeiegOEBkDBxYCIYfjk
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/556.png" tvg-name="ch556" timeshift="0" group-title="Познавательные",Curiosity Stream HD
+http://13.team.ga:80/ch556/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvkslBGfv2IYSUIFLe133ibKc5ZUWrgWj2pLoeHByLXkF
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/720.png" tvg-name="ch720" timeshift="0" group-title="Познавательные",Motor Trend HD
+http://13.team.ga:80/ch720/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvj5KCm6nI5FytZB_YKtk2kfwIBnC5OOIUpu0s9TSNEUe
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/722.png" tvg-name="ch722" timeshift="0" group-title="Познавательные",Discovery Science HD
+http://13.team.ga:80/ch722/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvjnukbUgltZ82pRDi5TabpMBLwItWN4TrNJLqkOWjmvd
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/723.png" tvg-name="ch723" timeshift="0" group-title="Познавательные",HGTV HD
+http://13.team.ga:80/ch723/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvtSNbwPmXotjprfaxlYeVHzyviJdLNQo8WlJXJDV4pj6
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/2078.png" tvg-name="ch2078" timeshift="0" group-title="Познавательные",Terra HD
+http://13.team.ga:80/ch2078/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvozjNrvBHnaQrjL2-zsyt6xQy9wGce5R9PiMz8g_j7Mh
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/1952.png" tvg-name="ch1952" timeshift="3" group-title="Познавательные",MM Experiment HD
+http://13.team.ga:80/ch1952/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvsZvTCqAisZb_Q4tiZ3wNP77Gi7NKmhvGoJ7wWtZBumt
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/1955.png" tvg-name="ch1955" timeshift="3" group-title="Познавательные",MM Открытия HD
+http://13.team.ga:80/ch1955/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvqlQIuLybVmb9e3x7AkFf86pq90gcCKZctP6cqBPJphT
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/1984.png" tvg-name="ch1984" timeshift="3" group-title="Познавательные",Sky High Brain HD
+http://13.team.ga:80/ch1984/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvugfl0S0w-rxwnHA6fEWXe4cXZTXNjsPcGcgnw5jDn0a
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/3180.png" tvg-name="ch3180" timeshift="3" group-title="Познавательные",Sky High Doc HD
+http://13.team.ga:80/ch3180/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvvmLEs6NdkVN8TX0cl_djW5dmxdcmG1vqddkhWTFxcy_
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/3177.png" tvg-name="ch3177" timeshift="0" group-title="Познавательные",Liberty Документалка FHD
+http://13.team.ga:80/ch3177/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvhPU2srIDx1xn_FiuwQEeAYiMJa_fWMtsAPGIb2MtODB
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/1777.png" tvg-name="ch1777" timeshift="3" group-title="Познавательные",Liberty Наука FHD
+http://13.team.ga:80/ch1777/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvibfZluLrCBE_mKVku3o1-EEHgNoUZ-9aqCwhu11NliE
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/2294.png" tvg-name="ch2294" timeshift="3" group-title="Познавательные",BOX Memory HD
+http://13.team.ga:80/ch2294/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvpBc6sjuVt0zNEBBWfCR0MvOiuJNW2MCaBVneBavM00Q
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/2303.png" tvg-name="ch2303" timeshift="3" group-title="Познавательные",BOX Stories HD
+http://13.team.ga:80/ch2303/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvsizrR6wNT4Lkp7DfY7LIhrzi-p1FE_IGf9yuwd46ccq
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/2304.png" tvg-name="ch2304" timeshift="3" group-title="Познавательные",BOX Travel HD
+http://13.team.ga:80/ch2304/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvp0zQ2Ry3QO39Di7Lvo8u730v5CtMQH_LOTVjknaR7Sj
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/2490.png" tvg-name="ch2490" timeshift="3" group-title="Познавательные",BOX Travel Premiere HD
+http://13.team.ga:80/ch2490/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvr100Uq8QqQ0wumlztVzMZHzHtm47bomdbXOZgw8AeHf
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/2313.png" tvg-name="ch2313" timeshift="3" group-title="Познавательные",BOX Mayday HD
+http://13.team.ga:80/ch2313/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvsbqChGwpaUmsKXyhw9rpIml9_I_UQ07VSfvDeEBmdjP
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/2924.png" tvg-name="ch2924" timeshift="2" group-title="Познавательные",CineMan Air Crash
+http://13.team.ga:80/ch2924/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvheDAykLiDHx8dyNIkZfhEVTh19Y6pve1ZZKwm9s3Wsy
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/2606.png" tvg-name="ch2606" timeshift="0" group-title="Познавательные",Yosso TV Travel
+http://13.team.ga:80/ch2606/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvvOpjLxPwueEQfNN92ALp-W-TWrkcRsJ31Or0u-zOXcI
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/2605.png" tvg-name="ch2605" timeshift="0" group-title="Познавательные",Yosso TV Science
+http://13.team.ga:80/ch2605/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvunNWbpRrVm8D_TEESkkmRP1ne88DDsSMPoguLZOqx2T
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/2670.png" tvg-name="ch2670" timeshift="3" group-title="Познавательные",Oasis Учим Kитайский
+http://13.team.ga:80/ch2670/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvlRIHHsjX1RVzmlKiD4rIneBFs0cCrnkGAeon8X2XX7n
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/2671.png" tvg-name="ch2671" timeshift="3" group-title="Познавательные",Oasis Учим Английский
+http://13.team.ga:80/ch2671/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvtXuDamew1QzceBXB_ohK9fhZrQuc2oBSq_5P80_gaFQ
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/2672.png" tvg-name="ch2672" timeshift="3" group-title="Познавательные",Oasis Учим Испанский
+http://13.team.ga:80/ch2672/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvgaCvYrFpBB-IqmX7jmVnVcMKPR6laAAZDSuDhNoNNhH
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/73.png" tvg-name="ch073" timeshift="0" group-title="Познавательные",Наука 2.0 HD
+http://13.team.ga:80/ch073/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvoOYsnnurXGXqKCq4XZhnd9GWZBDz5Be-BE7zZ5jhTVf
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/148.png" tvg-name="ch148" timeshift="1" group-title="Познавательные",Galaxy HD
+http://13.team.ga:80/ch148/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvkCiv7FzCYIeBgqrnXdJAJo8pmf175CK0dPqVUJ5W69S
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/434.png" tvg-name="ch434" timeshift="0" group-title="Познавательные",Investigation Discovery HD
+http://13.team.ga:80/ch434/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvsRz9KiZnowxSWkErEgk1yfGUSuWBbkLCqxq3tk-jw1p
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/440.png" tvg-name="ch440" timeshift="0" group-title="Познавательные",Доктор HD
+http://13.team.ga:80/ch440/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvhiVKDUQoDBtoEeDRsYnHjKVIgqD3bQD4UBv7RtctZF0
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/122.png" tvg-name="ch122" timeshift="0" group-title="Познавательные",Точка РФ
+http://13.team.ga:80/ch122/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvomEspXYeoTGmXEk291V7XOLqFLlPfS-P2WOMpr3PA1t
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/442.png" tvg-name="ch442" timeshift="0" group-title="Познавательные",История
+http://13.team.ga:80/ch442/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvh9pUKvq9yhi3Sp3106gAOUpN7UToDaIvqoityYnuA0-
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/40.png" tvg-name="ch040" timeshift="3" group-title="Детские",Карусель HD
+http://13.team.ga:80/ch040/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvjE8h5XBYd-fC0CXX7zp8HGaaO9PArfJZkx7L83AA7Q8
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/45.png" tvg-name="ch045" timeshift="3" group-title="Детские",Мульт HD
+http://13.team.ga:80/ch045/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvib8-AC9Iyefd39Vs0bMFh-UsodVtFS3Sp7ca_AdMT7C
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/81.png" tvg-name="ch081" timeshift="3" group-title="Детские",Cartoon Network HD
+http://13.team.ga:80/ch081/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvolEk3NfeQ_foEwfuXeKN3y3o3UZspZrv6Ue-Zn6HcB3
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/486.png" tvg-name="ch486" timeshift="3" group-title="Детские",Cartoonito
+http://13.team.ga:80/ch486/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvmPL8qeuBTlkwrtcKC42ofOT7ln-LgMpFvGbCbdXD871
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/41.png" tvg-name="ch041" timeshift="3" group-title="Детские",Солнце
+http://13.team.ga:80/ch041/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvpdb81W-qplcMO_5aFzkMhTaWn0K6TH7nPFqs-YSgdVM
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/42.png" tvg-name="ch042" timeshift="3" group-title="Детские",TiJi
+http://13.team.ga:80/ch042/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvowsbKCeb2GXiNRDCFCt4NPZVb87Xu5UDPWqlMQYGfWK
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/43.png" tvg-name="ch043" timeshift="3" group-title="Детские",Gulli Girl
+http://13.team.ga:80/ch043/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvtZ5NNH2xLB5GvIj74LfR9n_x9qwDEhI9Ryj9zwfAc-7
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/82.png" tvg-name="ch082" timeshift="3" group-title="Детские",Мама
+http://13.team.ga:80/ch082/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvsReXJyJbdY5bLDxBc08IYKv0MPOhD0Fmy-8ztmEHXHX
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/323.png" tvg-name="ch323" timeshift="3" group-title="Детские",Канал О
+http://13.team.ga:80/ch323/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvt0l1a_hixp7rZsm8urSYF57k8xCg85WgsfWSW79YPOQ
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/479.png" tvg-name="ch479" timeshift="3" group-title="Детские",Nickelodeon HD
+http://13.team.ga:80/ch479/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvt-MVXZBIWMi9lWyXQ3ZSMCdjxnZdRwyUCkgbzF9X3UD
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/379.png" tvg-name="ch379" timeshift="3" group-title="Детские",Nick Jr
+http://13.team.ga:80/ch379/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvqPQ6odc7xlynPcHoOGoATfY9e3ueMMlxZl9UQJgcwmB
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/478.png" tvg-name="ch478" timeshift="3" group-title="Детские",Уникум HD
+http://13.team.ga:80/ch478/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvqg52y7iJVwMZntbQoCrnTGR7B4QNbRPLsHCcIysH1QM
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/483.png" tvg-name="ch483" timeshift="3" group-title="Детские",СТС Kids HD
+http://13.team.ga:80/ch483/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvksKKm5f2N4xASUxGzxVdyyK0osYUp3zmYqUnCUQafRo
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/119.png" tvg-name="ch119" timeshift="3" group-title="Детские",В гостях у сказки HD
+http://13.team.ga:80/ch119/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvgYFQU90XggJoqEuh3frPjqfgXOzOf-Y5vkbDr8rYg54
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/44.png" tvg-name="ch044" timeshift="3" group-title="Детские",Детский мир HD
+http://13.team.ga:80/ch044/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvg6WUMtk6Upqh5LDb1L3G0qPziQkBnIKleUsxwS7w9qH
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/484.png" tvg-name="ch484" timeshift="3" group-title="Детские",Мультимузыка
+http://13.team.ga:80/ch484/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvitVVmtPJ0lPrSQPnRZZJwDSo0YViOu1PtcQRTfjLDSb
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/485.png" tvg-name="ch485" timeshift="3" group-title="Детские",JimJam
+http://13.team.ga:80/ch485/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvt2hdF7cPd7_dop_1xQKcAPHvIWWnXcSqX9ZaMaCAu_M
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/2080.png" tvg-name="ch2080" timeshift="3" group-title="Детские",Лёва HD
+http://13.team.ga:80/ch2080/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvhSHAg1sPmiqlNI9YQ8CLkeK-4KgMOY7rHXaII12xzUv
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/487.png" tvg-name="ch487" timeshift="3" group-title="Детские",Радость Моя
+http://13.team.ga:80/ch487/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvias5puYbbqYhutyO4Ie01fUVhs1Tj3SxOm6JClWSMtG
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/488.png" tvg-name="ch488" timeshift="3" group-title="Детские",Ani
+http://13.team.ga:80/ch488/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvmBBPOHm4P88vgVFvENb_yau8RMNRjHtp0baCoYBxbju
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/489.png" tvg-name="ch489" timeshift="3" group-title="Детские",Baby TV
+http://13.team.ga:80/ch489/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvpJjwfuHWil7_9XpZzpGmnEbf7-tBQa3e-SVoJMuTFz1
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/617.png" tvg-name="ch617" timeshift="3" group-title="Детские",Супергерои
+http://13.team.ga:80/ch617/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqviw92MY1aslUnEk6DaJWTSjWejjy49LaXfJBBcph-jVG
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/618.png" tvg-name="ch618" timeshift="3" group-title="Детские",Рыжий
+http://13.team.ga:80/ch618/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvrcht0PgpDkqtCCdqQelc_9Ng4wKoA7RyHxEkYY94pKX
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/634.png" tvg-name="ch634" timeshift="3" group-title="Детские",Мультиландия
+http://13.team.ga:80/ch634/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvrbmWWBUx1RZeUfv2aDRmXOE7M6S5OTIP9wZgdjT4jWC
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/638.png" tvg-name="ch638" timeshift="3" group-title="Детские",Капитан Фантастика HD
+http://13.team.ga:80/ch638/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvgmCKIervrxBTuIthzIn2NpeKIY1Q7NvPlWYHakvpMww
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/707.png" tvg-name="ch707" timeshift="3" group-title="Детские",Duck HD
+http://13.team.ga:80/ch707/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvmxxEA1PcG0kCTOv7BKa3OPiwYksAm8E7ZkaMhku0UEz
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/425.png" tvg-name="ch425" timeshift="0" group-title="Детские",Чижик
+http://13.team.ga:80/ch425/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvhAshdqJC_EvEaTELpq2cSxxlrhxxlXTN6gPc32J5Lce
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/786.png" tvg-name="ch786" timeshift="2" group-title="Детские",BCU Kids HD
+http://13.team.ga:80/ch786/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvs2qQLvhPjE9ADP86xiO49vr_-0LS6UDV0tLn7kJBEVH
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/559.png" tvg-name="ch559" timeshift="2" group-title="Детские",BCU Kids+ HD
+http://13.team.ga:80/ch559/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvvavypBNMdCSJKa1wvDbBL59VOwlh0glktH6689rk9CS
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/787.png" tvg-name="ch787" timeshift="2" group-title="Детские",BCU Мультсериал HD
+http://13.team.ga:80/ch787/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvn51X5bXEjiAzrVRSP9SdCsAd9izqhqOR_yteoPOIG9d
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/1428.png" tvg-name="ch1428" timeshift="2" group-title="Детские",BCU Kids 4K
+http://13.team.ga:80/ch1428/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvnGkBbW9jVDJeEIYVWc-Haz-OHIKy2ZNd_qF5ip-cjUb
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/1634.png" tvg-name="ch1634" timeshift="2" group-title="Детские",BCU Little HD
+http://13.team.ga:80/ch1634/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvqP1XEu9AfY-g4Wqiujy8zJpGe-5prNSl30yBtEY8_sf
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/1027.png" tvg-name="ch1027" timeshift="2" group-title="Детские",Cartoons 90
+http://13.team.ga:80/ch1027/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvquTACupw2MRmD7i3YkckU4pmnHQ8J-CMgZ2du8qxIF4
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/1028.png" tvg-name="ch1028" timeshift="2" group-title="Детские",Cartoons Short
+http://13.team.ga:80/ch1028/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvhJIUnJ7QCoFnGz5b32e1LprlukbU4YE5OC3dBIizpG9
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/1029.png" tvg-name="ch1029" timeshift="2" group-title="Детские",Cartoons Big
+http://13.team.ga:80/ch1029/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvtZHQZiowIJmu30dMjXWYD1MJcFnlwOkr1erkEF00EpP
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/1670.png" tvg-name="ch1670" timeshift="2" group-title="Детские",Cineman Симпсоны
+http://13.team.ga:80/ch1670/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvvHcS6EOAHcX5oI_4md1I6bJtZRYfqYV8ogGCVTl8Zjg
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/1221.png" tvg-name="ch1221" timeshift="3" group-title="Детские",MM Tom and Jerry HD
+http://13.team.ga:80/ch1221/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvhurK1ffC0abf68kiOS3PQ5Tf3ZnIGJaZN5LhmXyRwnQ
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/1225.png" tvg-name="ch1225" timeshift="3" group-title="Детские",MM USSR Мультфильм HD
+http://13.team.ga:80/ch1225/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvubgyg5cEWYItkV3RaWQqTBiB7Sei3hxE1pfolxoMABz
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/1226.png" tvg-name="ch1226" timeshift="3" group-title="Детские",MM USSR Сказки HD
+http://13.team.ga:80/ch1226/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvmv51dtJc0JBqjbJgEPqiOrPS6y9nzfnlJsoVHOHgK5h
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/1231.png" tvg-name="ch1231" timeshift="3" group-title="Детские",MM Honey HD
+http://13.team.ga:80/ch1231/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvuynMDg9SYqSbClpS3NOhzAp9UgxHqU8ECnkBw4Xqydf
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/1247.png" tvg-name="ch1247" timeshift="3" group-title="Детские",MM Lesson HD
+http://13.team.ga:80/ch1247/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvm22OCIq1ypQfn7OYTeRpb9EP0FmneryWEjiETVYK7Wi
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/1248.png" tvg-name="ch1248" timeshift="3" group-title="Детские",MM Smile HD
+http://13.team.ga:80/ch1248/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvlxPHtNYwbKEYhhhY8VAOF2BUYoDgyunDVZiRTuoAHhQ
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/1265.png" tvg-name="ch1265" timeshift="3" group-title="Детские",MM Walt Disney HD
+http://13.team.ga:80/ch1265/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvjZwWbJtRO5837TSqJh9YcWi7aBkHOMEDZWoBFnvU5Xj
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/1954.png" tvg-name="ch1954" timeshift="3" group-title="Детские",MM Гриффины HD
+http://13.team.ga:80/ch1954/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqviOdDhhOu_ZuENWgxG3ElmjIzRHcJ1vuZ2FwIqXflo-C
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/1299.png" tvg-name="ch1299" timeshift="3" group-title="Детские",Yosso TV Kids
+http://13.team.ga:80/ch1299/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvmbxyhdbgC2hCXhPyz8iDN6d8rlrs6J2oH12z6SxI5Wv
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/2061.png" tvg-name="ch2061" timeshift="3" group-title="Детские",Yosso TV Наше Детское
+http://13.team.ga:80/ch2061/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvrd-j0Sg_hQkSlbiiQGxiqYVKyOn8wACLXXJSHDRFd7S
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/1304.png" tvg-name="ch1304" timeshift="3" group-title="Детские",Yosso TV Союзмульт
+http://13.team.ga:80/ch1304/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvmoJUNT--HRhxYL6jwjLIBQByJL5PbKe6faZGrkAQUA2
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/1314.png" tvg-name="ch1314" timeshift="3" group-title="Детские",Yosso TV Cartoon
+http://13.team.ga:80/ch1314/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvsQfjkcOd34XIyp8h7Fp9lnNP5sXnjXdCVVFtpfUhncz
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/2456.png" tvg-name="ch2456" timeshift="3" group-title="Детские",Yosso TV Disney
+http://13.team.ga:80/ch2456/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvhdc_j-52tephXAFtJNBCV7fMQ5jhfnyRkmdKM3XdDA0
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/1287.png" tvg-name="ch1287" timeshift="3" group-title="Детские",MS Animated HD
+http://13.team.ga:80/ch1287/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvvYycktHtQqCqpPc1YtxVraHGzr_h4slmbo9cmCXyz0v
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/1290.png" tvg-name="ch1290" timeshift="3" group-title="Детские",MS Toons HD
+http://13.team.ga:80/ch1290/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvmirnL3I5qYfnfdrTi9zu_AUi0qQC7l2YOQsCsr-PiWT
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/1558.png" tvg-name="ch1558" timeshift="3" group-title="Детские",Magic Disney
+http://13.team.ga:80/ch1558/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqviFHPjuaXAvJbbyY5JXQ6TZzwgrxPbG2yIIMLgXQneSE
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/1735.png" tvg-name="ch1735" timeshift="3" group-title="Детские",Fresh Kids
+http://13.team.ga:80/ch1735/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvkRDq0qKp2EVfsx-S3KSnWgdHutWwuw739SMFYCJyHpZ
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/1746.png" tvg-name="ch1746" timeshift="3" group-title="Детские",Liberty Pixar FHD
+http://13.team.ga:80/ch1746/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqviC9QEfiFgBkTGmK6ebKKutBNu7UxpERvcxBIxsuAhVV
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/1747.png" tvg-name="ch1747" timeshift="3" group-title="Детские",Liberty Disney FHD
+http://13.team.ga:80/ch1747/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvt1wv96M2Orx7_9biA5v6kW8qClwzpUQB3IN7oLE6CBH
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/2788.png" tvg-name="ch2788" timeshift="3" group-title="Детские",Liberty Dreamworks 4K
+http://13.team.ga:80/ch2788/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvrX52Rykw58gt5U5mOslMWawgl21Ef-X05sbjL3amLFj
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/1771.png" tvg-name="ch1771" timeshift="3" group-title="Детские",Liberty Мульт 4K
+http://13.team.ga:80/ch1771/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvogzy-If10DMg6bjfhQHLQUT1RBFLUgLpG-U0QVPlYPw
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/1764.png" tvg-name="ch1764" timeshift="3" group-title="Детские",Liberty МультENG 4K
+http://13.team.ga:80/ch1764/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvrcs6MBMNSYQnvjc1W5j0s7n11a7E3rSgsI96--nhLar
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/1751.png" tvg-name="ch1751" timeshift="3" group-title="Детские",Liberty Симпсоны FHD
+http://13.team.ga:80/ch1751/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvjtk9V3v19vSw9IxxVmWnx9RIOkZymqhPFJQDi1NAffT
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/1759.png" tvg-name="ch1759" timeshift="3" group-title="Детские",Liberty Бебимульт FHD
+http://13.team.ga:80/ch1759/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvpl5tMmYh8R9vEYnzG-MVa6FfzG7ll6GOQ2lzoPGMt16
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/1778.png" tvg-name="ch1778" timeshift="3" group-title="Детские",Liberty Сказки FHD
+http://13.team.ga:80/ch1778/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvvW-OYXXXfxyfPQmVlQIHjly_zI81Kn41FuJeNd49rUE
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/1779.png" tvg-name="ch1779" timeshift="3" group-title="Детские",Liberty Мим FHD
+http://13.team.ga:80/ch1779/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvgznMW0cCF-tCIMZZ6g4g-laFyi8z0K7IUh-Jo5a9eqO
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/2620.png" tvg-name="ch2620" timeshift="2" group-title="Детские",Liberty Крош FHD
+http://13.team.ga:80/ch2620/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvuvsQg3f0ovECdU9bIGohGn5iKfp_HMOZAnj2kE9zmuR
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/3187.png" tvg-name="ch3187" timeshift="2" group-title="Детские",Liberty Мультверсия FHD
+http://13.team.ga:80/ch3187/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvqJeO_f6s3fPQyuPuQp-STlJT0q97PGA1fp9kWQPotyP
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/1956.png" tvg-name="ch1956" timeshift="3" group-title="Детские",Sky High Bunny HD
+http://13.team.ga:80/ch1956/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvqVcsVRfQkp35jbd8eZvN1nxCoP62VmjWKylaPBZUNe-
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/1982.png" tvg-name="ch1982" timeshift="3" group-title="Детские",Sky High Kids USSR
+http://13.team.ga:80/ch1982/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvs2w5XyZNgwfnTlE5_xRI3kk9TNheTvJWyby3OKmbMZY
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/3096.png" tvg-name="ch3096" timeshift="3" group-title="Детские",Sky High Jetix HD
+http://13.team.ga:80/ch3096/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvhCIRURtcgnZkLS0aADjY_N_nBNZa3pD36qlwldHp03x
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/2493.png" tvg-name="ch2493" timeshift="3" group-title="Детские",Clarity4K Walt Disney
+http://13.team.ga:80/ch2493/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvtpbDi27HvSoarkXQhPX3bdt_Ny1lDvSRz94VGeV_Q9S
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/519.png" tvg-name="ch519" timeshift="3" group-title="Детские",Clarity4K Мультляндия
+http://13.team.ga:80/ch519/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvuRF2eppfjD38hy6_Ds4qB2TTif-asoxZQOWIwcyfi1q
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/1180.png" tvg-name="ch1180" timeshift="3" group-title="Детские",Clarity4K Мультимир
+http://13.team.ga:80/ch1180/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvg4D-HyHD0MgR-v4gNEGhVYjD5dUn1ZaD2jQEg8bUlqC
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/2264.png" tvg-name="ch2264" timeshift="3" group-title="Детские",KLI Kids HD
+http://13.team.ga:80/ch2264/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvtAPRzzzbpkhsU2VrRZhkTNri4nyQ_Zy_tUBGmdWODB2
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/2265.png" tvg-name="ch2265" timeshift="3" group-title="Детские",KLI Мультики HD
+http://13.team.ga:80/ch2265/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvrC8BlB0rbAOAY9JxMLuoJVjYKfwGvM3VPBYIha-u9Ft
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/2293.png" tvg-name="ch2293" timeshift="3" group-title="Детские",BOX M.Serial HD
+http://13.team.ga:80/ch2293/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvun1lg4ryEjZd-NJvcKBUULfwAYajh_T5-Xx2HXjzGjd
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/2600.png" tvg-name="ch2600" timeshift="2" group-title="Детские",VeleS Kids
+http://13.team.ga:80/ch2600/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvqCsD8OO9BOIgtqXXe6Tr2Us4eOym0-dbW73LkDuvH1m
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/2651.png" tvg-name="ch2651" timeshift="3" group-title="Детские",Oasis Blocks
+http://13.team.ga:80/ch2651/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvqrwpo2mn8v1csB_lSTDP2Z01XnqDZBEx_--vWl7kdgB
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/2658.png" tvg-name="ch2658" timeshift="3" group-title="Детские",Oasis Disney Classic
+http://13.team.ga:80/ch2658/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvtoq_M3d8y9hdiMig8w66yiO57RVtDzuGM6NUu9dsOjI
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/2659.png" tvg-name="ch2659" timeshift="3" group-title="Детские",Oasis Disney Мультсериалы
+http://13.team.ga:80/ch2659/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvqvD3In8wfmb6IivFa3x8v5kiRj70Th0Kn5yQlD745Si
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/2680.png" tvg-name="ch2680" timeshift="3" group-title="Детские",Oasis Pixar
+http://13.team.ga:80/ch2680/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvvCtyu_Y60OSKaZFVjHmhfr1xgxgVvBFBM_D1xxVfJ9z
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/2673.png" tvg-name="ch2673" timeshift="3" group-title="Детские",Oasis Лосяш
+http://13.team.ga:80/ch2673/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvvOiid2DLzcLiTJ6QXe_8A5Tb1FRSoulGOnfvD1xHnFk
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/2683.png" tvg-name="ch2683" timeshift="3" group-title="Детские",Oasis RUS Мульт
+http://13.team.ga:80/ch2683/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvnmzNwtAX2pz0DsBRnNH-O0eB8DnO_NZM0zy1-0Qsomi
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/2689.png" tvg-name="ch2689" timeshift="3" group-title="Детские",Oasis Сквидвард
+http://13.team.ga:80/ch2689/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvrvj3OhbDkyHIbgvFvdnBdTlZukDIFTw-9hcU9y6e5r6
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/2693.png" tvg-name="ch2693" timeshift="3" group-title="Детские",Oasis Tom And Jerry
+http://13.team.ga:80/ch2693/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvl3pqZW8EiOl8BAZ6xU7-fsvr4mqkmu84FBUZ1sCxVbw
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/2917.png" tvg-name="ch2917" timeshift="3" group-title="Детские",Oasis Черепашки Нинзя
+http://13.team.ga:80/ch2917/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvu4zq2MjFimb4YTNs8hFhCpYJbKK4L91uujTrR6kJJMV
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/2829.png" tvg-name="ch2829" timeshift="3" group-title="Детские",KBC-Союзмультзал
+http://13.team.ga:80/ch2829/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvsoGQrYp6NN72m361EbwsEeBavLxhgaTa-d6e8SbfEkn
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/3132.png" tvg-name="ch3132" timeshift="3" group-title="Детские",KBC-Сказочное Remake
+http://13.team.ga:80/ch3132/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvpp0VRtQie8EumumJbwa-FOXWPu_9lnyo0yZfI_osqSw
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/3153.png" tvg-name="ch3153" timeshift="3" group-title="Детские",Velilla TV Мультфильмы HD
+http://13.team.ga:80/ch3153/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvjcbZoTQ991gat77bMBJfeOik2WCi3A2Q8nn5waZ5w-e
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/3154.png" tvg-name="ch3154" timeshift="3" group-title="Детские",Velilla TV Том и Джерри HD
+http://13.team.ga:80/ch3154/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvhNZw6sLlgOivyxS_qeBmh7_CbDIBTunTtDx4OiPD4I4
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/3296.png" tvg-name="ch3296" timeshift="3" group-title="Детские",Velilla TV Детский HD
+http://13.team.ga:80/ch3296/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvtsoSo8i0jqCbHeYzb4WFdblb51tDtWk4fF9sV3XJEvL
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/3225.png" tvg-name="ch3225" timeshift="3" group-title="Детские",Kernel TV Аладдин
+http://13.team.ga:80/ch3225/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvvVyX_gSFj-bPMLCFRWsLcdF_k5U96lGXRDZoIKA1tm7
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/3226.png" tvg-name="ch3226" timeshift="3" group-title="Детские",Kernel TV Алиса
+http://13.team.ga:80/ch3226/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvua-K2AxlAU0V1nND_ADN2aLGrdf1AwUZ9SDZ_4xb21T
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/3227.png" tvg-name="ch3227" timeshift="3" group-title="Детские",Kernel TV Аниме
+http://13.team.ga:80/ch3227/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvlqCfCGrj_ZZHnbKv5JLPKKJF1pdlrBUp2Rk3IhG1xhg
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/3228.png" tvg-name="ch3228" timeshift="3" group-title="Детские",Kernel TV Барбоскины
+http://13.team.ga:80/ch3228/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvu7FJ-agFZt1Seeb7sF3_oCNql-NTv0ViOTIjgCNrZj7
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/3229.png" tvg-name="ch3229" timeshift="3" group-title="Детские",Kernel TV Бен 10
+http://13.team.ga:80/ch3229/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvoytRXxpt5kpj6wsODJ_nYAOYNJn8bqSmGUKyWyZJYu0
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/3230.png" tvg-name="ch3230" timeshift="3" group-title="Детские",Kernel TV Буба
+http://13.team.ga:80/ch3230/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvpHBe3CCqFS3Wphj-XfMSMPdp9zmHcwoG-QEelG8jWCX
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/3232.png" tvg-name="ch3232" timeshift="3" group-title="Детские",Kernel TV Царевны
+http://13.team.ga:80/ch3232/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvuos1H9QkLaLDpO7FqzeZKW7wKWYmcl__XHg_T7UqTK_
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/3233.png" tvg-name="ch3233" timeshift="3" group-title="Детские",Kernel TV Чёрный Плащ
+http://13.team.ga:80/ch3233/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvihM9ZabNkG3EfEG-7tLjeaLc71LEsg_YIX9GBWiEK-1
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/3234.png" tvg-name="ch3234" timeshift="3" group-title="Детские",Kernel TV Чип и Дейл
+http://13.team.ga:80/ch3234/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvjQv7yEoEmcT1fBUB2th74clFITpmwdWYeW0MyDrrIcS
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/3237.png" tvg-name="ch3237" timeshift="3" group-title="Детские",Kernel TV Драконы и Всадники Олуха
+http://13.team.ga:80/ch3237/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvsMtWk15SRgTo44mwXf45LCsENJc79JK0rh7AjTKsUrR
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/3238.png" tvg-name="ch3238" timeshift="3" group-title="Детские",Kernel TV Утиные истории
+http://13.team.ga:80/ch3238/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvipQc1j2vARU1gE4oADWE74CXt15tU2KJTv4-TRQScCt
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/3239.png" tvg-name="ch3239" timeshift="3" group-title="Детские",Kernel TV Финис и Ферб
+http://13.team.ga:80/ch3239/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvp7zLKxZkzw_GF-lmN7-DvV-erMrtCxuPaPf6mt957X_
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/3240.png" tvg-name="ch3240" timeshift="3" group-title="Детские",Kernel TV Фиксики
+http://13.team.ga:80/ch3240/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvizjqfwqy-6zf1q8F7HLYXtsFA7AoXyTvUAGl0Xnh-2w
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/3241.png" tvg-name="ch3241" timeshift="3" group-title="Детские",Kernel TV Футурама
+http://13.team.ga:80/ch3241/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvhIEa3H21itnnQ7Dd_sM6SYVPCalzFUReVkd12VaXsfe
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/3243.png" tvg-name="ch3243" timeshift="3" group-title="Детские",Kernel TV Подружки
+http://13.team.ga:80/ch3243/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvo3FhTjSUQz4bFjJtKDTGTmDY-zyvcGnvMbE0xOV3YWr
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/3244.png" tvg-name="ch3244" timeshift="3" group-title="Детские",Kernel TV Человек-Паук
+http://13.team.ga:80/ch3244/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvpzKnIWS8Rn23svmJ2ZXTTsBMwfYLu5Cu-flLDdBRHZO
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/3245.png" tvg-name="ch3245" timeshift="3" group-title="Детские",Kernel TV Гравити Фолз
+http://13.team.ga:80/ch3245/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvrv6nEkz465eUZ-rKgmj9tRzF8uIMFvKl4KpWNni5_0e
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/3246.png" tvg-name="ch3246" timeshift="3" group-title="Детские",Kernel TV Губка Боб Квадратные Штаны
+http://13.team.ga:80/ch3246/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvt-xbCi5WrrTlNareHvq8njZe_wgKZwMyul3MRIyfzXc
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/3250.png" tvg-name="ch3250" timeshift="3" group-title="Детские",Kernel TV Леди Баг и Супер Кот
+http://13.team.ga:80/ch3250/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvlai96NX-5VWEy8gV5WE0wMyrt1DFAM-sF8HVCUt6RL8
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/3251.png" tvg-name="ch3251" timeshift="3" group-title="Детские",Kernel TV Лего
+http://13.team.ga:80/ch3251/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvsFJircRU2b6kq1S6Nby8lWp4_my7Htvh-91n8vwEYyS
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/3252.png" tvg-name="ch3252" timeshift="3" group-title="Детские",Kernel TV Лило и Стич
+http://13.team.ga:80/ch3252/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvoGjY2YQFSDxGy8IwC4wcdAz9DSDvxk6s-iYs2y6VAwG
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/3253.png" tvg-name="ch3253" timeshift="3" group-title="Детские",Kernel TV Люк Путешественник во Времени
+http://13.team.ga:80/ch3253/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvoJaq020ZUcmTxA_Gz9wqkX_3b-XPocjy9o0atfBJkIn
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/3254.png" tvg-name="ch3254" timeshift="3" group-title="Детские",Kernel TV Лунтик и его Друзья
+http://13.team.ga:80/ch3254/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvkmanUrIHhZ3utJdstNm484TnarBWAlOsIsCAle_DPfs
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/3256.png" tvg-name="ch3256" timeshift="3" group-title="Детские",Kernel TV Малыш
+http://13.team.ga:80/ch3256/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvsvgykSv6HrErz8kFyv_XN33wC6eh3jLiLd19CDaL4aq
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/3259.png" tvg-name="ch3259" timeshift="3" group-title="Детские",Kernel TV Маша и Медведь
+http://13.team.ga:80/ch3259/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvjyLziFepv_WXUDaSjFeDZ_hXBDzowbsAkFNT5r5cG6A
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/3260.png" tvg-name="ch3260" timeshift="3" group-title="Детские",Kernel TV МИ-МИ-Мишки
+http://13.team.ga:80/ch3260/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvtKQGo5Wzzs27KJIk1LuTiKYXD9GGypcCsiN_Jim7NqN
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/3261.png" tvg-name="ch3261" timeshift="3" group-title="Детские",Kernel TV МиниФорс
+http://13.team.ga:80/ch3261/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvvSzzJ0bZ51DAoRP1-tMhFNtVoN14d5vERUFKsqj9Ahl
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/3262.png" tvg-name="ch3262" timeshift="3" group-title="Детские",Kernel TV Мой Маленький Пони
+http://13.team.ga:80/ch3262/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvsJd1_o4kpjQDJV7G5DUG_pHg5uFJbAKYSGdiTIeCEb-
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/3264.png" tvg-name="ch3264" timeshift="3" group-title="Детские",Kernel TV Пушистики
+http://13.team.ga:80/ch3264/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvmOrWsrUhcIWxJ1vtl65HSCKUvr0shMdy2i_KfxD0JKv
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/3265.png" tvg-name="ch3265" timeshift="3" group-title="Детские",Kernel TV Щенячий Патруль
+http://13.team.ga:80/ch3265/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvjsyiCJJhWu-gG6VaWJsJe0562Q9Q7ioTkbUK5X45jMr
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/3266.png" tvg-name="ch3266" timeshift="3" group-title="Детские",Kernel TV Русалочка
+http://13.team.ga:80/ch3266/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvsCTckngUGvmdlpqz37F8J-k91SE9Vb4ovQtgzqPRId2
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/3267.png" tvg-name="ch3267" timeshift="3" group-title="Детские",Kernel TV Шкодники
+http://13.team.ga:80/ch3267/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvrOq0Nz-b8phhsnz6SiDQb6C6hh_47-7jQhwTqfPkvyn
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/3268.png" tvg-name="ch3268" timeshift="3" group-title="Детские",Kernel TV Смешарики
+http://13.team.ga:80/ch3268/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvhaAZrNJ3UH3ngCFz9ug91gCJo4yl3rQXOcRI_SGvZxA
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/3269.png" tvg-name="ch3269" timeshift="3" group-title="Детские",Kernel TV Сонник Бум
+http://13.team.ga:80/ch3269/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvlDBjIr_0xtrGb0_ukqdiajedw_mwK70jglbe-MsJ6Cy
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/3270.png" tvg-name="ch3270" timeshift="3" group-title="Детские",Kernel TV Звёздные войны
+http://13.team.ga:80/ch3270/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvomjkgz5MaAXh2cKrSPKSWzWYWzLYBPzEZjoR0zBWoZ9
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/3271.png" tvg-name="ch3271" timeshift="3" group-title="Детские",Kernel TV Супер Крылья
+http://13.team.ga:80/ch3271/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvqSjducsWCTt16on7EWntDp3c8jX44GC0ovm8hzGi32g
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/3274.png" tvg-name="ch3274" timeshift="3" group-title="Детские",Kernel TV Тимон и Пумба
+http://13.team.ga:80/ch3274/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvt5-W8izoj3ya5JgAsrrb9wfG5VN4uzeiduAa2e8J42e
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/3275.png" tvg-name="ch3275" timeshift="3" group-title="Детские",Kernel TV Том и Джерри
+http://13.team.ga:80/ch3275/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvkyhfZpYn7brEm3E8WIrpQ4WLrKYnKc99dP1-aPdfklA
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/3276.png" tvg-name="ch3276" timeshift="3" group-title="Детские",Kernel TV Три Кота
+http://13.team.ga:80/ch3276/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvqS91g2vVE_juu40kjixijXZHG-FsqU7s7l4_3NvdGYn
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/3277.png" tvg-name="ch3277" timeshift="3" group-title="Детские",Kernel TV Команда Турбо
+http://13.team.ga:80/ch3277/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvnHWJOmz-DhEJrH2ZqL1zVsdo0UDR8V0cQgOtpeWnaGl
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/3278.png" tvg-name="ch3278" timeshift="3" group-title="Детские",Kernel TV Черепашки Ниндзя
+http://13.team.ga:80/ch3278/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvspKKtJP0IzV9cJ4WXuQnvsi-lv2Q4yvmQPjYsyPnFV9
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/3279.png" tvg-name="ch3279" timeshift="3" group-title="Детские",Kernel TV Винни и его Друзья
+http://13.team.ga:80/ch3279/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvrxQhpwjmqh9XAddnPSKX-bWdw0htLLnFiV_MigmZn2P
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/512.png" tvg-name="ch512" timeshift="0" group-title="UHD",Insight UHD
+http://13.team.ga:80/ch512/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvsBJx086phjarIQzPNPkk29ljIrb_YOHXTMzgDZ0wdF2
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/511.png" tvg-name="ch511" timeshift="7" group-title="UHD",Кино UHD
+http://13.team.ga:80/ch511/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvrR_sw7O0Y5vjM4gMSS7zE6gDJwW2p_TYfkyG9OkdHM5
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/558.png" tvg-name="ch558" timeshift="3" group-title="UHD",Cinema UHD
+http://13.team.ga:80/ch558/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvkfDfrj3s90YG36NLof-GeQ83N-UNZc_V2gIaXcav4cG
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/1262.png" tvg-name="ch1262" timeshift="3" group-title="UHD",MM Flip UHD
+http://13.team.ga:80/ch1262/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvrBaI_A7rYrhYH3DW4DZVMonBzSfGQDqdlz2H7y86nAi
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/527.png" tvg-name="ch527" timeshift="0" group-title="UHD",Museum UHD
+http://13.team.ga:80/ch527/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvviW3RIJDDfqcsWOHOXegXNdIMO8F83OF1REuPEBVecp
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/566.png" tvg-name="ch566" timeshift="0" group-title="UHD",Глазами туриста 4K
+http://13.team.ga:80/ch566/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvsbQKVzv_KlaIL1tmfVZZvjvBOtRQm_tLoN2NQNR8Lg9
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/1316.png" tvg-name="ch1316" timeshift="3" group-title="UHD",Yosso 4K
+http://13.team.ga:80/ch1316/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvipLHuRCQn27UjagrfKvxdAn0L6OqHXwD6GeGpG737ux
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/613.png" tvg-name="ch613" timeshift="0" group-title="UHD",Travelxp 4K
+http://13.team.ga:80/ch613/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvsOATLdxKJTjyfap2GNOGhqgjC8FThc62uUY_FIQP3RZ
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/654.png" tvg-name="ch654" timeshift="0" group-title="UHD",Love Nature 4K
+http://13.team.ga:80/ch654/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvkNzThxnL7bVCWGy2jBJL9hUt0GO_uVxdie_F0cRKpM9
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/1041.png" tvg-name="ch1041" timeshift="0" group-title="UHD",Quadro 4K
+http://13.team.ga:80/ch1041/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvufV-sWSJ7iot3NwW1Cqd3nXIIDIrL3ZnBBsoSsE4szX
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/551.png" tvg-name="ch551" timeshift="0" group-title="UHD",Home 4K
+http://13.team.ga:80/ch551/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvinYOP4FSzbPWvbvcQaTm7SbK3dhU86RUBa76DNTaCGG
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/849.png" tvg-name="ch849" timeshift="2" group-title="UHD",BCU Ultra 4K
+http://13.team.ga:80/ch849/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvl_ceEsIdXdPRovD1_pUgOpbel7C9MPDGo3R3aDEqd1U
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/553.png" tvg-name="ch553" timeshift="2" group-title="UHD",BCU Premiere Ultra 4K
+http://13.team.ga:80/ch553/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvoZaqkNTzVXghfRpdclcLdKnG76fW_0K4t3hka-2AmoN
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/1763.png" tvg-name="ch1763" timeshift="3" group-title="UHD",Liberty КиноENG 4K
+http://13.team.ga:80/ch1763/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvknpiqqzWCVmi-GbaoAIg9CYmCX1oaWJrZBvMcj7cuFM
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/1765.png" tvg-name="ch1765" timeshift="3" group-title="UHD",Liberty Легенда 4K
+http://13.team.ga:80/ch1765/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvkc6luto_TmI-rsmGe4ph1_j_3-GOEW49sJSWib6i3XC
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/1769.png" tvg-name="ch1769" timeshift="3" group-title="UHD",Liberty Русфильм 4K
+http://13.team.ga:80/ch1769/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvndkbZOTVbhDdr054b81-Ma8gEx1vWhP6j_V32H7u50C
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/1770.png" tvg-name="ch1770" timeshift="3" group-title="UHD",Liberty Кино Микс 4K
+http://13.team.ga:80/ch1770/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvjnb6BKO-ACtBCfMmfXQhkD_IxFlUU36YMP3jYpFuNot
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/1772.png" tvg-name="ch1772" timeshift="3" group-title="UHD",Liberty Индия 4K
+http://13.team.ga:80/ch1772/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvgb7hq1CNgs_BgA-nwqPBMQl9PxSKMTtjubPJo8TFaPk
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/1773.png" tvg-name="ch1773" timeshift="3" group-title="UHD",Liberty Netflix 4K
+http://13.team.ga:80/ch1773/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvuDbEkLXjsTTrQP8s1uLwhxyAIiaWXG5t8injz27IaAS
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/1774.png" tvg-name="ch1774" timeshift="3" group-title="UHD",Liberty Куб 4K
+http://13.team.ga:80/ch1774/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvv7Xi_e5XG_DcgpdGELrob3MjkQHp4eCl-QV1FM5zI_U
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/1775.png" tvg-name="ch1775" timeshift="3" group-title="UHD",Liberty Семейный 4K
+http://13.team.ga:80/ch1775/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvpZQrjNTa7dotru4Jgg0hrZ7mrsWtRgMFEORUq2u7a91
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/1743.png" tvg-name="ch1743" timeshift="3" group-title="UHD",Liberty Триллеры 4K
+http://13.team.ga:80/ch1743/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvqltCboNGbVa9hT15dXcL6alBBHkrFo9z9F4tbDslkA-
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/1742.png" tvg-name="ch1742" timeshift="3" group-title="UHD",Liberty Ужасы 4K
+http://13.team.ga:80/ch1742/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvgdMf13RhOGJ-2oyCzZxQIDiD7-UQ7kUyybSZRJKVwlR
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/1776.png" tvg-name="ch1776" timeshift="3" group-title="UHD",Liberty Туркфильм 4K
+http://13.team.ga:80/ch1776/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvjaP87QeSzMltl89VvNnIi1Qbp8o2LOmUJi8rNlcc3XG
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/1780.png" tvg-name="ch1780" timeshift="3" group-title="UHD",Liberty Союз 4K
+http://13.team.ga:80/ch1780/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvoDVND2PSuuIMpnd9CDQHlsjqqoEbbwlAYPRdhGP6NOl
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/2458.png" tvg-name="ch2458" timeshift="3" group-title="UHD",Liberty XX Век 4K
+http://13.team.ga:80/ch2458/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvj2u-4q0BUgMoStrH0mobZ1v8Y046ylTIN4ob-vZbUp9
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/2342.png" tvg-name="ch2342" timeshift="7" group-title="UHD",Liberty Criminal 4K
+http://13.team.ga:80/ch2342/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvoePxtl9FUObqk-_EWF1F_0P5kiyEiXxixTbMOA2fsRS
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/2590.png" tvg-name="ch2590" timeshift="3" group-title="UHD",Liberty Аванпост 4K
+http://13.team.ga:80/ch2590/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvgd7fbUWfUowJV3FuQH5xLybgRkF0xJecIVO9Z-qVxQL
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/2787.png" tvg-name="ch2787" timeshift="3" group-title="UHD",Liberty Serialy 4K
+http://13.team.ga:80/ch2787/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvrHAQSs2eJTgb3nGIvA8CsaZWYMnQqVNYUF5qcSiB6_m
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/2789.png" tvg-name="ch2789" timeshift="3" group-title="UHD",Liberty Мюзикл 4K
+http://13.team.ga:80/ch2789/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvsCjGS70vaXU1Un0za0yCvO7wKhgMAtoD0yhEqoVhKc4
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/3151.png" tvg-name="ch3151" timeshift="3" group-title="UHD",Liberty Medval 4K
+http://13.team.ga:80/ch3151/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvhv0iH5ESfjlQUYhMt0w52Ey3AQYhqGgxFBSeShylJGb
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/2063.png" tvg-name="ch2063" timeshift="3" group-title="UHD",Yosso TV Советские фильмы 4K
+http://13.team.ga:80/ch2063/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvntHMQDwVH9of8HnEBR4PAVcAPBxgJxFa2IF6z4HC0AX
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/2295.png" tvg-name="ch2295" timeshift="0" group-title="UHD",BOX Music 4K
+http://13.team.ga:80/ch2295/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvijqUREf-ZpwpxUqm7gJnSdhJ1f6BGScGpYymb0yQA0X
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/2931.png" tvg-name="ch2931" timeshift="6" group-title="UHD",BOX UltraStars 4K
+http://13.team.ga:80/ch2931/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvhaP0diIDunl_uWn7G5nwQXgfT2Zl-MkJYJoPOyJUZQk
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/2297.png" tvg-name="ch2297" timeshift="3" group-title="UHD",BOX Premiere 4K
+http://13.team.ga:80/ch2297/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqviHQV5egxYKX1-S3mpJARraN4db6_tLZDLsVEu4GYJc0
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/2298.png" tvg-name="ch2298" timeshift="3" group-title="UHD",BOX Relax 4K
+http://13.team.ga:80/ch2298/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvmRGKWCXk1duRpKOwThmpbqCwhLxiZJp9EJiX0AMh9vD
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/2299.png" tvg-name="ch2299" timeshift="3" group-title="UHD",BOX Remast 4K
+http://13.team.ga:80/ch2299/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvsrtRzKBMqO6m7Ug1Ub3MA67P4qrk-4qSfqkIoGL0Pvi
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/2707.png" tvg-name="ch2707" timeshift="3" group-title="UHD",BOX Remast+ 4K
+http://13.team.ga:80/ch2707/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvnK0pRJ0nmMf7hX9SqUMdZcazVA9pN_1USRjjpO9H-jv
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/2300.png" tvg-name="ch2300" timeshift="3" group-title="UHD",BOX Serial 4K
+http://13.team.ga:80/ch2300/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvuV83-H1vieQI_BmIVDyLd61gwUNS8wt8AzIUlbr8KBx
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/2926.png" tvg-name="ch2926" timeshift="6" group-title="UHD",BOX СССР 4K
+http://13.team.ga:80/ch2926/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvnH6_28QndMkG0rXjQA1BPSbbWcgmP1PZrUTARv4dFFz
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/1949.png" tvg-name="ch1949" timeshift="2" group-title="UHD",BOX Russian 4K
+http://13.team.ga:80/ch1949/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvjQCDLwNzZx0mqRCZXwO2Hjijh-TJX--uAqlI0vFzXYA
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/2509.png" tvg-name="ch2509" timeshift="3" group-title="UHD",Clarity4K КиноНовинки
+http://13.team.ga:80/ch2509/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvmiHSpKJ3_khbeQWfgSD4-ZoXRzoXK54xhub-9xLtdKf
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/2890.png" tvg-name="ch2890" timeshift="3" group-title="UHD",Clarity4k КиноФраншизы
+http://13.team.ga:80/ch2890/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvifiPyi8PRI5z8MlP8hk9500TwY0N9L_lVairs1oU5gn
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/1434.png" tvg-name="ch1434" timeshift="3" group-title="UHD",Clarity4K Netflix
+http://13.team.ga:80/ch1434/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvihJy_1dSTq-1pDinDlL4BnrQCaOJHU0ZHa32T-WB6gL
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/2507.png" tvg-name="ch2507" timeshift="3" group-title="UHD",Clarity4K HBO Series
+http://13.team.ga:80/ch2507/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvlDVFGc96nph2DX34VfkLpJheV3rG4aaxDiOIZ3H9YdO
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/1439.png" tvg-name="ch1439" timeshift="3" group-title="UHD",Clarity4K Фантастика
+http://13.team.ga:80/ch1439/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvso-hVp7Bdwi-rTAdWkqT904Sqp6xROSulJMEN0cOTQe
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/1196.png" tvg-name="ch1196" timeshift="3" group-title="UHD",Clarity4K Фэнтези
+http://13.team.ga:80/ch1196/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvutHsc-R6VaHPa0JLJ_KQD3u_MEHaxO22JC55KzTnkkb
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/1272.png" tvg-name="ch1272" timeshift="3" group-title="UHD",Clarity4k Galaxy Films
+http://13.team.ga:80/ch1272/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvq3sEDOPuLjaVgBZCMb7M8e4bNT1bI7bXNE6XYmCuJgK
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/2508.png" tvg-name="ch2508" timeshift="3" group-title="UHD",Clarity4k Сумеречный Эфир
+http://13.team.ga:80/ch2508/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvmJHwEUsWlRI928DyjePvOUX3Gw7q-mW3rw_gMHbe3Wv
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/1437.png" tvg-name="ch1437" timeshift="3" group-title="UHD",Clarity4K Приключения
+http://13.team.ga:80/ch1437/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvuXcG58JHRXJQWudIx6BS0upl_yPf1opEHEFs0FDxtK9
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/1179.png" tvg-name="ch1179" timeshift="3" group-title="UHD",Clarity4k Боевик
+http://13.team.ga:80/ch1179/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvg0I2TxVYnH9jTjC9vLmLdlKxT6eKIf-Oai5W2Vbu9Ir
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/451.png" tvg-name="ch451" timeshift="2" group-title="UHD",Clarity4K Боевик VHS
+http://13.team.ga:80/ch451/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvqqyJvH-c-s-zKF-f_tLBJ-c-NwWzzRHLHt_AcwU3YAF
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/2895.png" tvg-name="ch2895" timeshift="2" group-title="UHD",Clarity4K Триллер
+http://13.team.ga:80/ch2895/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvhykdq4oq6g2N8o4aSGbATvhmVGZ_YSbbmzPFbPyqrni
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/2889.png" tvg-name="ch2889" timeshift="3" group-title="UHD",Clarity4K Комедия
+http://13.team.ga:80/ch2889/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvkywBE7fFrg1mpFal02OcMVyy7-0IyQF-1wlRRyHilOi
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/2891.png" tvg-name="ch2891" timeshift="3" group-title="UHD",Clarity4K Комедия VHS
+http://13.team.ga:80/ch2891/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvgV4d7uDR8AlZOP6T9rpmBkJMOhvim2zcowjsa9PDwTw
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/2887.png" tvg-name="ch2887" timeshift="3" group-title="UHD",Clarity4K Ужасы
+http://13.team.ga:80/ch2887/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvtgq2U2I_94oZYHZDvGA0dQ_VSwVCNMZY02rTKY6H20F
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/1187.png" tvg-name="ch1187" timeshift="3" group-title="UHD",Clarity4K Ужасы VHS
+http://13.team.ga:80/ch1187/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvlHuCB4yKnBL4DJSXSi4tfIQrli0HcPwhYg6_ns9QKYW
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/2886.png" tvg-name="ch2886" timeshift="0" group-title="UHD",Clarity4k Драмы
+http://13.team.ga:80/ch2886/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqviHbKAXd7AKlBJqvSC_F2AGi6gsrISUQExjBu9tPBLjr
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/2601.png" tvg-name="ch2601" timeshift="3" group-title="UHD",Clarity4K Запал
+http://13.team.ga:80/ch2601/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvnW-fZ0NOe7-g6w5ZTyU-yopkWmEcCz-aO0jn-4jCtmb
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/2893.png" tvg-name="ch2893" timeshift="3" group-title="UHD",Clarity4K Gamefilm
+http://13.team.ga:80/ch2893/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvs9u1S00j4DwhaSGl1S9pmaBM3FhJO8kkwVEoy_Rohsk
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/2894.png" tvg-name="ch2894" timeshift="3" group-title="UHD",Clarity4K Семейный
+http://13.team.ga:80/ch2894/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvnnwl-A5GJ4XJ1I5TGloRWAww3F_zGr__KaV7y1Awn5O
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/2602.png" tvg-name="ch2602" timeshift="3" group-title="UHD",Clarity4K Киношарм
+http://13.team.ga:80/ch2602/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvuvQCDIa6gZayXZ7qwOiOTeMg2eAlFh9BZiSlUmy2eJH
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/2505.png" tvg-name="ch2505" timeshift="3" group-title="UHD",Clarity4k Русские сериалы
+http://13.team.ga:80/ch2505/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvjYVn6OlJFfusfWZ8wUhewtHUfKl5F4n6DSfLdsyEJnN
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/2885.png" tvg-name="ch2885" timeshift="3" group-title="UHD",Clarity4K Молодежные Комедии
+http://13.team.ga:80/ch2885/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvtovcN4l4PRTI9G6eW32R3doYpbmr4y8qQk6jiYJGFXW
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/2506.png" tvg-name="ch2506" timeshift="3" group-title="UHD",Clarity4k Классика Кино
+http://13.team.ga:80/ch2506/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvu7qoyKDp63ksJfSlitnfuwoXPqheMdia9SpOPKTSr71
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/1436.png" tvg-name="ch1436" timeshift="3" group-title="UHD",Clarity4K КиноСССР
+http://13.team.ga:80/ch1436/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvn8c1tX10DjUov9j5PHZXRRdjjhrjXGoM9Zg2twXb_6G
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/1127.png" tvg-name="ch1127" timeshift="7" group-title="UHD",Clarity4K Kинодети CССР
+http://13.team.ga:80/ch1127/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvrmd0-z6aI3RFxXLd_ToBHTlQ6pa5JPn2PYD9o0w2CbP
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/2621.png" tvg-name="ch2621" timeshift="3" group-title="UHD",Clarity4K Комедия СССР 1
+http://13.team.ga:80/ch2621/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvq5ADhWmmJ_3dRv_gZyTCpF0Wf8N6RP888Wngs2d-GEj
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/2622.png" tvg-name="ch2622" timeshift="3" group-title="UHD",Clarity4K Комедия СССР 2
+http://13.team.ga:80/ch2622/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvuM-yuD03tY_VmmxKKG69yUGakUn0_YE4gayxJ7sp2bD
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/1123.png" tvg-name="ch1123" timeshift="3" group-title="UHD",Clarity4k Anime
+http://13.team.ga:80/ch1123/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvi_TimXHycjNVB_M1J81FBnISqGp0PQN_7nEehmJWjAg
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/3172.png" tvg-name="ch3172" timeshift="3" group-title="UHD",Clarity4K Ретро-Сказка 1
+http://13.team.ga:80/ch3172/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvmG9qOZ7kvtZ8Zj7u3fCCkMaepN9vcsGMXrC5yghKVTD
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/3173.png" tvg-name="ch3173" timeshift="3" group-title="UHD",Clarity4K Ретро-Сказка 2
+http://13.team.ga:80/ch3173/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvkYsU68LQJ7ebv5Z-Dqzz5wDYZwvQy4-Y8foCzfR9qvC
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/1294.png" tvg-name="ch1294" timeshift="0" group-title="UHD",Clarity4K BluesString
+http://13.team.ga:80/ch1294/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvl1uhIxZvKk7THBtNBcruDOzr7ipXa_nJaI_LWDM2R2o
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/1551.png" tvg-name="ch1551" timeshift="0" group-title="UHD",Clarity4k Deep House
+http://13.team.ga:80/ch1551/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvi6Yoq9rzcEv6fs76uThZav7wknwAcyn_WLNPF8L9Kd_
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/1438.png" tvg-name="ch1438" timeshift="0" group-title="UHD",Clarity4K DeepMe
+http://13.team.ga:80/ch1438/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvll0QLvGjsM9bhojOPSkDclKcQxbthB6NVrSLZeVPBHQ
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/1441.png" tvg-name="ch1441" timeshift="0" group-title="UHD",Clarity4k RemasterWave
+http://13.team.ga:80/ch1441/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvrdwJxlEjupYPuUuzqDcJvsVX96fSBxXySdhpy9jWWj_
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/2504.png" tvg-name="ch2504" timeshift="0" group-title="UHD",Clarity4K UrbanBlack
+http://13.team.ga:80/ch2504/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvpVPEdMJLPnewmVYlOxav83g8LLZo2g9gUgMIgR6aI8d
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/2492.png" tvg-name="ch2492" timeshift="0" group-title="UHD",Clarity4K Heavy Metal
+http://13.team.ga:80/ch2492/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvvDQa_qO0CvXMx9BhHWZULnXL26y2KFO8BlOTOLHGtYw
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/1435.png" tvg-name="ch1435" timeshift="0" group-title="UHD",Clarity4K World Music
+http://13.team.ga:80/ch1435/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvsWzIbJWyDp3E3EPQ26PKxl-bUCA0oysaqEfoesUmluf
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/2404.png" tvg-name="ch2404" timeshift="0" group-title="UHD",Clarity4K Russian Music
+http://13.team.ga:80/ch2404/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvqHTIldAB1fUHNClU9mM-WCtR2do34n1yqMcnzdlFabt
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/1549.png" tvg-name="ch1549" timeshift="0" group-title="UHD",Clarity4K Ukrainian Music
+http://13.team.ga:80/ch1549/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvlLDdEn7KzTvCvQqCwP4Kx8B9paN4ahCozZAVIxI6AVV
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/2888.png" tvg-name="ch2888" timeshift="0" group-title="UHD",Clarity4K France Music
+http://13.team.ga:80/ch2888/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvr6A8YJ01YOWYZEuHmMZG3k_WGJscjJzOkMr6pV6_Bqv
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/128.png" tvg-name="ch128" timeshift="0" group-title="UHD",Clarity4K Korean Music
+http://13.team.ga:80/ch128/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvnfby0CxOclNmfH23Pqa6IwmFZ8QeWrYladoazWDFen6
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/2503.png" tvg-name="ch2503" timeshift="0" group-title="UHD",Clarity4K Latin Music
+http://13.team.ga:80/ch2503/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvjppr-s4C-N1miLKTQnVBx8bsw7usCJoJH2Soe4gCEFu
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/2399.png" tvg-name="ch2399" timeshift="0" group-title="UHD",Clarity4K Bollywood Music
+http://13.team.ga:80/ch2399/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvvMiIj-DWaDHbmrhB4-uzTeso5R7txNqUSifr04XGfgj
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/1295.png" tvg-name="ch1295" timeshift="3" group-title="UHD",Clarity4K Космомир
+http://13.team.ga:80/ch1295/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvt4G6H9uFin_M3SKhSrQbsqycKRM7bb1YnKfYcIfUGBz
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/2884.png" tvg-name="ch2884" timeshift="0" group-title="UHD",Clarity4k Вселенная
+http://13.team.ga:80/ch2884/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvtVy7PQI9MlIkRH68rqVTrH5jcZfd33p95yFaD1RPgBR
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/1427.png" tvg-name="ch1427" timeshift="3" group-title="UHD",Clarity4K Avto Blog
+http://13.team.ga:80/ch1427/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvjlhHySwskmU_sHGogjmrC7m5PSXaYjtOddnsXklB2cU
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/1166.png" tvg-name="ch1166" timeshift="3" group-title="UHD",Clarity4K Travel Blog
+http://13.team.ga:80/ch1166/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvl7-R3mjFhekWEMEOpq7LHY5MCU9ZyiDY0vim3xdP49G
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/1042.png" tvg-name="ch1042" timeshift="3" group-title="UHD",Clarity4K Звериный Мир
+http://13.team.ga:80/ch1042/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvkpdKXJCzSd-4Uj1XFj3kaDuz99ykYckbSOspe3BbgWi
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/545.png" tvg-name="ch545" timeshift="3" group-title="UHD",Clarity4K Asia
+http://13.team.ga:80/ch545/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvhMcO6RdfNU02LmGx5uWJA2JZlJpT64P1WD4oV5A2V2-
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/1440.png" tvg-name="ch1440" timeshift="0" group-title="UHD",Clarity4K Города
+http://13.team.ga:80/ch1440/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqviJReaiPgxd94aHMz8tmrood34W77gszf81wvaMpws1N
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/2883.png" tvg-name="ch2883" timeshift="0" group-title="UHD",Clarity4k UFO
+http://13.team.ga:80/ch2883/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvjz6-q17R8L3Nmfm5eDqxxN5wgpRja8LXdo5P8GTojAL
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/2892.png" tvg-name="ch2892" timeshift="0" group-title="UHD",Clarity4K Театр
+http://13.team.ga:80/ch2892/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvgutCtItnRWvuOiQfaqL9sephzuN6VHC3Vdyw1UhvUSp
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/2867.png" tvg-name="ch2867" timeshift="3" group-title="UHD",KLI 4K UHD
+http://13.team.ga:80/ch2867/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvqPJWvmUi3qXp55cDa9yw5s95-n46a6eDiCgXCoU3SJj
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/2154.png" tvg-name="ch2154" timeshift="3" group-title="UHD",KLI Новинки UHD
+http://13.team.ga:80/ch2154/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvs_3VVRsKqP1jkFVRJBc0RF6GCWoUEhCLtS8soI-EAs6
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/2310.png" tvg-name="ch2310" timeshift="2" group-title="UHD",Cineman OLD 4K
+http://13.team.ga:80/ch2310/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvjEm8XE_vZd7mlmdJTE0rTSqrjWyPzMJ7kKBvC-4EOlX
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/2311.png" tvg-name="ch2311" timeshift="0" group-title="UHD",CineMan Relax 4K
+http://13.team.ga:80/ch2311/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvqDHUEAdL60ePW_8wkwCNV4U_T_6MCYoYM8xosUXzqpN
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/2922.png" tvg-name="ch2922" timeshift="2" group-title="UHD",CineMan CCCP 4K
+http://13.team.ga:80/ch2922/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvteMqufDPiKM6bIHNSx-CQ12tOfVRUf3wa0xooa-NpVn
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/3049.png" tvg-name="ch3049" timeshift="2" group-title="UHD",CineMan Kids 4K
+http://13.team.ga:80/ch3049/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvjRUU7FN2VBEN20P9GVniuKNeQ7LcXzAwUa3JDRuQn-l
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/1971.png" tvg-name="ch1971" timeshift="3" group-title="UHD",Sky High Mix 4K
+http://13.team.ga:80/ch1971/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvsJoNeRsQvgPI14JvpMK27CAqKXBQIQ7bJS5Gfmfx3_p
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/1978.png" tvg-name="ch1978" timeshift="3" group-title="UHD",Sky High Nature 4K
+http://13.team.ga:80/ch1978/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvqqTmBrzhnTVrRXc3x2x0-ezqvzP7nfoyxgtnkW8KhQn
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/1972.png" tvg-name="ch1972" timeshift="3" group-title="UHD",Sky High VHS UHD
+http://13.team.ga:80/ch1972/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvllgh0Kk-cqCPKj5DbJN7fIxBUgQ5w2gyykw5s0a3Ub-
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/1983.png" tvg-name="ch1983" timeshift="3" group-title="UHD",Sky High Doc UHD
+http://13.team.ga:80/ch1983/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvrAl5Em3cmBuemO9r3BN7n3NmXNnGNYjA4hUZycpL99h
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/3135.png" tvg-name="ch3135" timeshift="3" group-title="UHD",Velilla TV Cinema 4K
+http://13.team.ga:80/ch3135/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvrwq3nhcAgbzb8UEoGtAzR-7x0pXf_-vydkjDdUs9L99
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/665.png" tvg-name="ch665" timeshift="0" group-title="UHD",Wellbeing TV 4K
+http://13.team.ga:80/ch665/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvq19z705wqnc_RU9TlC8CN46-Wi8YW14fW_OWY6Qis9e
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/30.png" tvg-name="ch030" timeshift="0" group-title="Музыка",MTV
+http://13.team.ga:80/ch030/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvrohYzUFfklG9qmRzKraJyxWe76eT6PDMh-oDDcEfDCn
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/2766.png" tvg-name="ch2766" timeshift="0" group-title="Музыка",MTV Base HD
+http://13.team.ga:80/ch2766/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvpbaNP53lm-60VqFz9uQU9G3bqAoMLVmLajWcVo8naLx
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/2752.png" tvg-name="ch2752" timeshift="0" group-title="Музыка",MTV Idol HD
+http://13.team.ga:80/ch2752/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvgM7BARf0q-s_SwvPvze6e-P5WesCWQ_JMXhm0PGEhuE
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/2758.png" tvg-name="ch2758" timeshift="0" group-title="Музыка",MTV Pulse HD
+http://13.team.ga:80/ch2758/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvrBSw_H-TybED6tjKu_l1j_P-vOwELXasH_9F1475xpe
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/552.png" tvg-name="ch552" timeshift="0" group-title="Музыка",MTV Live HD
+http://13.team.ga:80/ch552/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvtXl5wtmXdzoPoRCRV6D9-UFsFMJEznRonxMa8LtCj-B
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/31.png" tvg-name="ch031" timeshift="0" group-title="Музыка",MTV Club
+http://13.team.ga:80/ch031/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvuAHd51hBOVOPZ4NX32TuM-0pzdgVGrCRDu1Uqv_Fl_8
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/19.png" tvg-name="ch019" timeshift="0" group-title="Музыка",MTV Hits
+http://13.team.ga:80/ch019/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvijJE89cTOcD40QYrCHiLx7jPIBG2dAduZ0uVYUSGEd9
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/29.png" tvg-name="ch029" timeshift="0" group-title="Музыка",MTV 80s
+http://13.team.ga:80/ch029/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvtBv6Fc-xfRS9kgwOcI3oJvNOGR4LcrCy3WUrtgG5tTd
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/594.png" tvg-name="ch594" timeshift="0" group-title="Музыка",MTV 90s
+http://13.team.ga:80/ch594/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvqXR-beNFtBXFpRqG2BUkRgVl2JWyUq8pa1Jtp3FMVY1
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/28.png" tvg-name="ch028" timeshift="0" group-title="Музыка",MTV 00s
+http://13.team.ga:80/ch028/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvs9ILR2Bvgi7CaMehcLEQKjIy7ul3emMOigaykFIlQHl
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/20.png" tvg-name="ch020" timeshift="0" group-title="Музыка",МУЗ
+http://13.team.ga:80/ch020/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvjuTncz8J4Gb6EhIKCA1sb4Tl0gl7-rBgt0I_9avHgXc
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/27.png" tvg-name="ch027" timeshift="0" group-title="Музыка",RU.TV
+http://13.team.ga:80/ch027/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvuEpnjFy_RccuWi96s912zZbkyphT_nDGvzgP3b8g8rP
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/490.png" tvg-name="ch490" timeshift="0" group-title="Музыка",Bridge TV
+http://13.team.ga:80/ch490/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvv0ig9h5LocajRWMaE74oYUZwHkzLpqkbVZv_SJ4P2Ni
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/491.png" tvg-name="ch491" timeshift="0" group-title="Музыка",Bridge TV Deluxe HD
+http://13.team.ga:80/ch491/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvsNklNTpgUTwnsIBv87xRjQKLsWnGOTi9NOo5rs_43Et
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/492.png" tvg-name="ch492" timeshift="0" group-title="Музыка",Bridge TV Classic
+http://13.team.ga:80/ch492/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvi67NOukpHslTyUsDlRpZOd-uOKm_fy-w9SnMMNbr-DS
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/494.png" tvg-name="ch494" timeshift="0" group-title="Музыка",Bridge TV Русский хит
+http://13.team.ga:80/ch494/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvkI5itZ2wv4XqqagfMmUQAs-yf9X8lUb9cfLpPPwRYPL
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/548.png" tvg-name="ch548" timeshift="0" group-title="Музыка",Bridge TV Шлягер
+http://13.team.ga:80/ch548/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvmYtsRxQBT0LB6PAJFBeByOS3RnFxxRTQSYUWh8aDCvj
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/130.png" tvg-name="ch130" timeshift="0" group-title="Музыка",Mezzo Live HD
+http://13.team.ga:80/ch130/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvoFhaJBs7VffPzv_znP99LOO4ZNwIfpA3XiWob5pHno3
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/324.png" tvg-name="ch324" timeshift="0" group-title="Музыка",iConcerts HD
+http://13.team.ga:80/ch324/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvtFpzLewXMg_huTgPgspIVM9pQt8Fjt9ds29Bfg0QUts
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/325.png" tvg-name="ch325" timeshift="0" group-title="Музыка",Шансон TB
+http://13.team.ga:80/ch325/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvlgbjz913OBqNoNSrE31snNGrN1dng3JTYO0GOHhFb9r
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/497.png" tvg-name="ch497" timeshift="0" group-title="Музыка",MCM TOP
+http://13.team.ga:80/ch497/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvlGayqGLMnQpd1rA_wvQvtlbXZ00kmzdQmRJPxptpaTH
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/529.png" tvg-name="ch529" timeshift="0" group-title="Музыка",Жара HD
+http://13.team.ga:80/ch529/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvlerEpLNyl0-Y256IEbKzyZyXwJL40mHQZDGAcN3i96-
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/402.png" tvg-name="ch402" timeshift="0" group-title="Музыка",Trace urban
+http://13.team.ga:80/ch402/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvh7FbkC6TRrONPBKd9ncwovpM-yKmk2MLlKEyYiqTh14
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/554.png" tvg-name="ch554" timeshift="0" group-title="Музыка",O2TV HD
+http://13.team.ga:80/ch554/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvmTFFMh5wyFGzzjd9FNPcrdLR09R___hzsGsgTKxS1Hc
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/555.png" tvg-name="ch555" timeshift="0" group-title="Музыка",Russian MusicBox HD
+http://13.team.ga:80/ch555/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvtp-TxgXDTDhCYumbqES-lh93iaYZm3BCilXiMWli2VE
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/615.png" tvg-name="ch615" timeshift="0" group-title="Музыка",Музыка Первого
+http://13.team.ga:80/ch615/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvm_5xlh8y7SCUdpVr0PT851alxzFdminqxJa4wuXnpE1
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/631.png" tvg-name="ch631" timeshift="0" group-title="Музыка",4 Ever music HD
+http://13.team.ga:80/ch631/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvlLsM5hlokGiD7biAF-fjDk_in-DRzvLDlPH8lukMuSB
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/650.png" tvg-name="ch650" timeshift="0" group-title="Музыка",Music Box Gold
+http://13.team.ga:80/ch650/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvtNd_whSCnF_XA4N75iofOtCtTf8c2UeDUk8WE6xAGSp
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/653.png" tvg-name="ch653" timeshift="0" group-title="Музыка",EU Music HD
+http://13.team.ga:80/ch653/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvkvdz00dlz_PiHzqQWgfLWYKH-qL0hm0TkCjywrfQiAD
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/661.png" tvg-name="ch661" timeshift="0" group-title="Музыка",AIVA HD
+http://13.team.ga:80/ch661/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvg-00JG6DWVx7HGPNrMIZYeYNGG5Ui8pCgFO73gE0FQY
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/715.png" tvg-name="ch715" timeshift="0" group-title="Музыка",Europa Plus TV HD
+http://13.team.ga:80/ch715/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvtvVDSP-YO-YermzDCHjf4xtOh4rEpPVMxvL53aGm-DS
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/716.png" tvg-name="ch716" timeshift="0" group-title="Музыка",ТНТ Music HD
+http://13.team.ga:80/ch716/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvuT2dVMz_5ULQWuHfYqJpSXoynnKXqMKDZjuBbXpVPwQ
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/524.png" tvg-name="ch524" timeshift="0" group-title="Музыка",Clubbing TV HD
+http://13.team.ga:80/ch524/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvu0A1uYYEdoD35xE8pNZ3q4deDf6aPnM2-ySu8bz8IY0
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/588.png" tvg-name="ch588" timeshift="0" group-title="Музыка",Танцуй
+http://13.team.ga:80/ch588/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvhEwlCkrsMAGV7F7TaUs3oMfm98fRaCJbs23BjRMVuu6
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/531.png" tvg-name="ch531" timeshift="0" group-title="Музыка",Жар Птица
+http://13.team.ga:80/ch531/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvgkgQ3kBn9D9ztQuYY03t_2BgwRzyxP-C3df09TyFanj
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/1220.png" tvg-name="ch1220" timeshift="0" group-title="Музыка",MM Rock HD
+http://13.team.ga:80/ch1220/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvijEt-CL6KARrYvnXFN96xIlRJmPVnUVSJdyTqSGNIo1
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/1228.png" tvg-name="ch1228" timeshift="0" group-title="Музыка",MM World Hits HD
+http://13.team.ga:80/ch1228/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvtElzpotdD34Nb7t9tJSlvdFU0oS56quP10djSEjM58F
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/1240.png" tvg-name="ch1240" timeshift="0" group-title="Музыка",MM Квартирник HD
+http://13.team.ga:80/ch1240/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvnVztZ_dvge0ZQ5zdQe5X_dKHBpgdMEfq-qDoBTNP-dg
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/1305.png" tvg-name="ch1305" timeshift="0" group-title="Музыка",Yosso TV Music Hits
+http://13.team.ga:80/ch1305/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvizk9hXPpzV6qId6D3r1MzN9gkrrg0feBCEmng_tMpMs
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/1564.png" tvg-name="ch1564" timeshift="0" group-title="Музыка",Fresh Concerts
+http://13.team.ga:80/ch1564/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvp9xMBNkvPMwE30Ic3p8pzwumdDPj5FS_2uRsoigldnz
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/1565.png" tvg-name="ch1565" timeshift="0" group-title="Музыка",Fresh Dance
+http://13.team.ga:80/ch1565/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvvCkC_dcweE_v8rNTzLbgtxKzRmpOZwgDpR2V1k7UDlq
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/1566.png" tvg-name="ch1566" timeshift="0" group-title="Музыка",Fresh Lyrics
+http://13.team.ga:80/ch1566/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvrC7XFhhT-YR-F3mNVwwAzXHGEw6IP5e9Iqqt1WTQ1dw
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/1567.png" tvg-name="ch1567" timeshift="0" group-title="Музыка",Fresh Pop Hits
+http://13.team.ga:80/ch1567/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvi5pZ3CtzuZTIC8FOap_ZjQ0_USSSn2ijlRHNESW8eTC
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/1568.png" tvg-name="ch1568" timeshift="0" group-title="Музыка",Fresh Retro
+http://13.team.ga:80/ch1568/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvhY23NGfKVIbX48_jFkjTMMn6EHkV4PJCmy6rYc4c9JB
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/1569.png" tvg-name="ch1569" timeshift="0" group-title="Музыка",Fresh Rock Covers
+http://13.team.ga:80/ch1569/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvkzlmmCkGuSsNS3LVxbVoVtWkoBzAr4GT8Kes428Hsbt
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/1570.png" tvg-name="ch1570" timeshift="0" group-title="Музыка",Fresh Russian Pop
+http://13.team.ga:80/ch1570/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvi0cdO9Ow1A5B8qiSwF1UqdV5TtNZfCydp8H8dxLdszh
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/1571.png" tvg-name="ch1571" timeshift="0" group-title="Музыка",Fresh Russian Rap
+http://13.team.ga:80/ch1571/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvheyJiG8AtTRf8F8xEe5NW1XbqR5dVcllL5OzXL4B-ri
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/1572.png" tvg-name="ch1572" timeshift="0" group-title="Музыка",Fresh Sad Music
+http://13.team.ga:80/ch1572/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvt7HatrK_XXE22QakhgviXRTeVm9uTLw9EPRgkICTNF2
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/1573.png" tvg-name="ch1573" timeshift="0" group-title="Музыка",Fresh Rock
+http://13.team.ga:80/ch1573/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvrwOhwfEtDFPGZgAlPp4ZfcoYPPIq4D0bPZodkiJJltd
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/2790.png" tvg-name="ch2790" timeshift="0" group-title="Музыка",Liberty Music Dj FHD
+http://13.team.ga:80/ch2790/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvqsMFzSRKCREHnj3r9M3KT0Xg5-b5gTOCa9x5LmZwQER
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/2064.png" tvg-name="ch2064" timeshift="0" group-title="Музыка",Yosso TV C-Live
+http://13.team.ga:80/ch2064/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvup78W7trYxUBQ943EDJCwjOM_HkB6FkGoAgSgKii0yr
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/1957.png" tvg-name="ch1957" timeshift="0" group-title="Музыка",Sky High Concert HD
+http://13.team.ga:80/ch1957/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvqeLmvtr9kA5Eaq0vUurRfajC0R_TBcVIL6IO_aqum3Y
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/1958.png" tvg-name="ch1958" timeshift="0" group-title="Музыка",Sky High Dance HD
+http://13.team.ga:80/ch1958/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvmfJrpHqGFqyrmQhni4p5ciKK9yWm9g2SL7Y8O3zpt8t
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/1959.png" tvg-name="ch1959" timeshift="0" group-title="Музыка",Sky High LO FI HD
+http://13.team.ga:80/ch1959/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvqPZ1yrQciv0PM2mDgaskfimrRxHCTtlA9VnlwKB-Q2n
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/1960.png" tvg-name="ch1960" timeshift="0" group-title="Музыка",Sky High Classic HD
+http://13.team.ga:80/ch1960/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvhBZtoOiqZyWgZm2VVQVTVkMobayZzHJAPDVJQv7OxvO
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/3178.png" tvg-name="ch3178" timeshift="0" group-title="Музыка",Sky High Music HD
+http://13.team.ga:80/ch3178/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvn0DfXeA3gCz7AM1WrqHfzcu8o494CovHutMxtvUoVPW
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/2256.png" tvg-name="ch2256" timeshift="3" group-title="Музыка",KLI Music HD
+http://13.team.ga:80/ch2256/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvlkH4pl01JfkVCsSI-N-iJKS0X2vW2pvs6puQT_38iuP
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/2257.png" tvg-name="ch2257" timeshift="3" group-title="Музыка",KLI Retro HD
+http://13.team.ga:80/ch2257/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvsyIPEHG12IOS6u-jK5d99rNz7fd5BhqIjGS8dUsuP4w
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/2258.png" tvg-name="ch2258" timeshift="3" group-title="Музыка",KLI Club HD
+http://13.team.ga:80/ch2258/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvm6e8WxcVIq7tSs6GCleqJJqSYGHes9pOpMXN0S46Yga
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/2259.png" tvg-name="ch2259" timeshift="3" group-title="Музыка",KLI Hit 90 HD
+http://13.team.ga:80/ch2259/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvvLkeOSbeEegl1A9-Jghgy_RzWdb6aqib7vKrsiGYCXj
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/2260.png" tvg-name="ch2260" timeshift="3" group-title="Музыка",KLI Concert HD
+http://13.team.ga:80/ch2260/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvoL_XaBSoExtK2-IZ9JlIACUzYlwkw-48Mrl-eZl77Cn
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/2261.png" tvg-name="ch2261" timeshift="3" group-title="Музыка",KLI Шансон HD
+http://13.team.ga:80/ch2261/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvq7RYDNxp_-Vh9ZsCdl0SM4v_b53VoFYX8w5NRnfMcLL
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/2462.png" tvg-name="ch2462" timeshift="3" group-title="Музыка",KLI Millennium HD
+http://13.team.ga:80/ch2462/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvjjmep8cA_aibh2sxQtRGMIRyvlb1OMMXyPIIcDZMQE0
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/2459.png" tvg-name="ch2459" timeshift="0" group-title="Музыка",BOX RU.RAP HD
+http://13.team.ga:80/ch2459/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvqVIk162WwTUfqu0j3n9lU0-oNLVcwV1o_AQfngZQz3_
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/2491.png" tvg-name="ch2491" timeshift="0" group-title="Музыка",BOX Metall HD
+http://13.team.ga:80/ch2491/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqviDNSo5DhbSPTUGjMWyC4pt5iEXsdSo64sN33Q79Byqz
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/2593.png" tvg-name="ch2593" timeshift="0" group-title="Музыка",VeleS Dj Set
+http://13.team.ga:80/ch2593/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvp2RMn_19pr2xhvn41dvi6FthrGOftqPYf8uF2JgBWqQ
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/2599.png" tvg-name="ch2599" timeshift="0" group-title="Музыка",VeleS Магнитофон
+http://13.team.ga:80/ch2599/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvgFfzLo5VjC79lKQkTJuboFpBSAQG7-rlSyVHf0qN56Q
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/2849.png" tvg-name="ch2849" timeshift="0" group-title="Музыка",KBC-Наш Rock HD
+http://13.team.ga:80/ch2849/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvj_uGy8NWsl7J39I5-wIiUotQ-PEcBnWRNKWB1_JS-Wr
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/2333.png" tvg-name="ch2333" timeshift="3" group-title="Музыка",Xmas Hits+
+http://13.team.ga:80/ch2333/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvvL2xCSGtth8FFPAuM78Qb8W4OO_VvL2VL2_6XDylAkD
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/2334.png" tvg-name="ch2334" timeshift="0" group-title="Музыка",Music Hits+
+http://13.team.ga:80/ch2334/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvlkvZ6sOEe25wSqOXAnqNSnaGf39FKAayMqxQ5LGxIQD
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/2767.png" tvg-name="ch2767" timeshift="0" group-title="Музыка",Velilla TV Pop And Rock Concerts HD
+http://13.team.ga:80/ch2767/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvh1YNeeU5XK2ArtbAaFp4MxEc8LNstBz44572l9C3ESA
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/2765.png" tvg-name="ch2765" timeshift="0" group-title="Музыка",Velilla TV Eurodance 90s
+http://13.team.ga:80/ch2765/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvsK4jO_evh8xlCX46f0Lp42M5MqGfbQUS7HwR7Y0aZI7
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/2749.png" tvg-name="ch2749" timeshift="0" group-title="Музыка",Velilla TV Russiandance 90s
+http://13.team.ga:80/ch2749/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvqHUfMwqV0UN94K6CF4eulvYOoZAuvxA06hq2QhnsqYx
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/660.png" tvg-name="ch660" timeshift="0" group-title="Музыка",Stingray CMusic HD
+http://13.team.ga:80/ch660/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvgxNzOXWUQZLghuM7qO_OBagLNnxgJ0rBtrNVV3F9oew
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/1921.png" tvg-name="ch1921" timeshift="0" group-title="Музыка",Stingray Djazz
+http://13.team.ga:80/ch1921/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvj7mlWznUcqDCP_stiOUpSzZd7ni9niBkkXeg5bjdUoR
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/1922.png" tvg-name="ch1922" timeshift="0" group-title="Музыка",Stingray iConcerts
+http://13.team.ga:80/ch1922/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvh91Im3DjvEjp2FcDh4rtJgNkR3_pC47HKPFU7R8rU2M
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/2759.png" tvg-name="ch2759" timeshift="0" group-title="Музыка",Stingray Lite TV
+http://13.team.ga:80/ch2759/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvgnYjOP6lBzK2Wgq2l7EU-Ku7frLg0EqmzLNtlac5K3l
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/2762.png" tvg-name="ch2762" timeshift="0" group-title="Музыка",Stingray Qello
+http://13.team.ga:80/ch2762/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvlztgCwuUtdOAzpsCtI0ZA4SzvFru_6pw0_RqyUxs2WG
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/1923.png" tvg-name="ch1923" timeshift="0" group-title="Музыка",Stingray Classica
+http://13.team.ga:80/ch1923/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvlTBqICdYy__kqBl4G0ypWBbsS1tZ9bmnHB5tPdxXpf9
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/2760.png" tvg-name="ch2760" timeshift="0" group-title="Музыка",Stingray Nature
+http://13.team.ga:80/ch2760/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvpa2CwKG1fjstydQdOiYiEISZuFbaUxc0gOLNTIkjKWb
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/2738.png" tvg-name="ch2738" timeshift="0" group-title="Музыка",Stingray 70s
+http://13.team.ga:80/ch2738/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvobVxomf8t31STKYPJ2xU3tCgtpsD8XcuddYoKFzhhrr
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/2739.png" tvg-name="ch2739" timeshift="0" group-title="Музыка",Stingray 80s
+http://13.team.ga:80/ch2739/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvpHG1CuqFHrUzIi2Dpd83dGOanVjxms8xwKHet6BgjiJ
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/2740.png" tvg-name="ch2740" timeshift="0" group-title="Музыка",Stingray 90s
+http://13.team.ga:80/ch2740/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvlgWZFjGmJq5Viy_JfmBsfzU2pkfHA2wA22L3RGUNDYn
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/2741.png" tvg-name="ch2741" timeshift="0" group-title="Музыка",Stingray Alternative Rock
+http://13.team.ga:80/ch2741/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvp6NsYcgmmmEIakyyMLnd0YHLlRleFNXjzUFHTUYa-m5
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/2754.png" tvg-name="ch2754" timeshift="0" group-title="Музыка",Stingray Greatest Hits
+http://13.team.ga:80/ch2754/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvlblDorquar4_1NCdpP3UU13Jcs66ikQVFQ4RrYjMi2v
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/2756.png" tvg-name="ch2756" timeshift="0" group-title="Музыка",Stingray Hot Country
+http://13.team.ga:80/ch2756/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvhnhKTiPVinrVb5eGfAgZBhNEb9LeRvWgpxxtliTMSEC
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/2757.png" tvg-name="ch2757" timeshift="0" group-title="Музыка",Stingray Todays K-Pop
+http://13.team.ga:80/ch2757/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvktvXyvVEi9wM_LzrGVyojtKkNrdVysRgh__W9arar4O
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/2761.png" tvg-name="ch2761" timeshift="0" group-title="Музыка",Stingray Pop Adult
+http://13.team.ga:80/ch2761/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvsKHedk09C8gGm8IsHBJZXSjnGCqMZxslqm7n2jrcjvs
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/2763.png" tvg-name="ch2763" timeshift="0" group-title="Музыка",Stingray Romance Latino
+http://13.team.ga:80/ch2763/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvoM8ucdlaNAv1bfttBCMudAqzTQKbQ6TzmUwSIsCGeCb
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/2764.png" tvg-name="ch2764" timeshift="0" group-title="Музыка",Stingray Smooth Jazz
+http://13.team.ga:80/ch2764/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvip5AcoZKY74rTzrXhqWNHvnc6cUxT1qeO0fLloqMlVH
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/2768.png" tvg-name="ch2768" timeshift="0" group-title="Музыка",Stingray Urban Beats
+http://13.team.ga:80/ch2768/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvjXjWyOb09EvzEQEr4V98calknQyuIs2EHp0yDYEfEbK
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/328.png" tvg-name="ch328" timeshift="0" group-title="Музыка",1HD Music HD
+http://13.team.ga:80/ch328/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvjJzbHIa_gOyFXoX3jVoJFg48y5gUbktba8JksiHADf5
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/493.png" tvg-name="ch493" timeshift="0" group-title="Музыка",Bridge TV Hits HD
+http://13.team.ga:80/ch493/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvj0ZDLKPVQMbym3-nwE6p-M6NWjfScnUu_3b5sQq_E2J
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/644.png" tvg-name="ch644" timeshift="0" group-title="Музыка",Bridge TV Rock HD
+http://13.team.ga:80/ch644/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvhSWH_iEgXQPstx4SJITLNSPvTNI7Q8TO2XEP0U52Ztu
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/523.png" tvg-name="ch523" timeshift="0" group-title="Музыка",Музыка Live
+http://13.team.ga:80/ch523/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvuvhwrFSSniJiMsHIcNM_BGbPctKxMheX_RHpb9tgyMc
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/1757.png" tvg-name="ch1757" timeshift="0" group-title="Музыка",Liberty Music Mix FHD
+http://13.team.ga:80/ch1757/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvlW002U5jnb6QPWwtbGHK-FPB-7vhFBwn302H2t8lDRa
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/2791.png" tvg-name="ch2791" timeshift="0" group-title="Музыка",Liberty Music Rock FHD
+http://13.team.ga:80/ch2791/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvvg8f4VlLZp9-zyLVSA4IiS2Nga9So1vldGJWZpNl2Eo
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/2792.png" tvg-name="ch2792" timeshift="0" group-title="Музыка",Liberty Music Jazz FHD
+http://13.team.ga:80/ch2792/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvhOwXbR8xMMgjkXT2z9rp0IaHsBSZ_Ic1lK_3cMdr6Ze
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/2793.png" tvg-name="ch2793" timeshift="0" group-title="Музыка",Liberty Music K-POP FHD
+http://13.team.ga:80/ch2793/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvnca7Bb3I04xCkpLdkW_hl34VwzJ4AnoMxE8wbwZ5cts
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/2796.png" tvg-name="ch2796" timeshift="0" group-title="Музыка",Liberty Music Pop FHD
+http://13.team.ga:80/ch2796/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvrLHsiya-FavNmCJKQ03gZvJgqFn9PKNc7f12e0vEdNa
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/2794.png" tvg-name="ch2794" timeshift="0" group-title="Музыка",Liberty Music Hip-Hop FHD
+http://13.team.ga:80/ch2794/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvgcG2PjFmwafqpzkV4kmP6m4YI0yG5-eEOt1O8316jPC
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/2795.png" tvg-name="ch2795" timeshift="0" group-title="Музыка",Liberty Music 90s Hits FHD
+http://13.team.ga:80/ch2795/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvjQnjr63BmntEl0hNQcw4ZB7GSH_IOwEnCTtUXHtT2EA
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/2797.png" tvg-name="ch2797" timeshift="0" group-title="Музыка",Liberty Music latino FHD
+http://13.team.ga:80/ch2797/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvkmvATNmoKWrgMQ2CQPvPeVmxPqzCIEBGT6c4XpCm4CR
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/2798.png" tvg-name="ch2798" timeshift="0" group-title="Музыка",Liberty Music Indi FHD
+http://13.team.ga:80/ch2798/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvor8PtFaae1NtDw4xoBhUfli2wMDLaMGwHCO5lTdDNfY
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/2865.png" tvg-name="ch2865" timeshift="0" group-title="Музыка",Liberty Music Alternative FHD
+http://13.team.ga:80/ch2865/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvqjms92PCSujxL4rbfClkvvutvKqAJ6z9ATPsbzwJfK0
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/2882.png" tvg-name="ch2882" timeshift="0" group-title="Музыка",Liberty Music Kinder FHD
+http://13.team.ga:80/ch2882/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvtIAl_W8c3tkzOn-jAT3TF-T8rsxf3tV-wU79LKqzjCj
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/2864.png" tvg-name="ch2864" timeshift="0" group-title="Музыка",Liberty Music Сountry FHD
+http://13.team.ga:80/ch2864/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvnofYwTsCNkpA7mFfwDxAtiztWY3SG8h-H0dHWQXXR6A
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/2858.png" tvg-name="ch2858" timeshift="0" group-title="Музыка",Liberty Music Classic FHD
+http://13.team.ga:80/ch2858/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvt0rmkpzUO9jGd1ER_NBz6mrlHaJ_oNEseFiEWRIkqBv
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/2873.png" tvg-name="ch2873" timeshift="0" group-title="Музыка",Liberty Music Chanson FHD
+http://13.team.ga:80/ch2873/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvklOyJvAEUY8neDTLNQ11arAz6ZrE5j9JVI7Zn7V0MTK
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/2879.png" tvg-name="ch2879" timeshift="0" group-title="Музыка",Liberty Music Electronic FHD
+http://13.team.ga:80/ch2879/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvmghvu8CP7w7JbyXjwb1ggkr_Mf0b0hegV9jGJkuiJT7
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/2861.png" tvg-name="ch2861" timeshift="0" group-title="Музыка",Liberty Music German FHD
+http://13.team.ga:80/ch2861/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvrTdGIqQSrYr4HDAjhxQT55OjF6IjKdjD0v4YEr0gEXa
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/2859.png" tvg-name="ch2859" timeshift="0" group-title="Музыка",Liberty Music RnB FHD
+http://13.team.ga:80/ch2859/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvicEWo5VjlthJssJlILBuX8m9Wqxbljls4Jdq2pJLGQO
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/26.png" tvg-name="ch026" timeshift="0" group-title="Прочее",Сарафан
+http://13.team.ga:80/ch026/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvgxzNuHHq26dHG3FW281GfmNgj2EvnBmuXwTepve8raM
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/454.png" tvg-name="ch454" timeshift="0" group-title="Прочее",Foodtime HD
+http://13.team.ga:80/ch454/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvoNArtdaQpjhzzTZ6Trr2H2LVkkygBpJ2oneTmge90fj
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/538.png" tvg-name="ch538" timeshift="0" group-title="Прочее",Еда
+http://13.team.ga:80/ch538/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvozGJdzYR6QqiaNQd0hyloSr3xl_l0Uj3BQsoKr8lFk2
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/455.png" tvg-name="ch455" timeshift="0" group-title="Прочее",Food Network HD
+http://13.team.ga:80/ch455/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvsP3w1J0b3UjbZbORx5xVCz0MbtUFrR0aV2XP_rm-due
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/422.png" tvg-name="ch422" timeshift="0" group-title="Прочее",Аппетитный HD
+http://13.team.ga:80/ch422/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvrv5wtYAdlKDztlPlqfn0QRuPLBMhyRVb4I0PgLAPAQt
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/75.png" tvg-name="ch075" timeshift="0" group-title="Прочее",БОБЁР
+http://13.team.ga:80/ch075/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvqUpByWQnjEkJbOaQXJ_E6kwEcSFtoVmrd9OHb7nS7nw
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/76.png" tvg-name="ch076" timeshift="0" group-title="Прочее",2X2
+http://13.team.ga:80/ch076/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvmv1BT3JUBjjXBHXPPx1iVpNOVbEsDC2INx1ZtlXeZCG
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/106.png" tvg-name="ch106" timeshift="2" group-title="Прочее",КВН ТВ
+http://13.team.ga:80/ch106/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvqb0BlvIx_lU3tAVkOyrKwlT1ARvOESJIEL8PWssuhhd
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/109.png" tvg-name="ch109" timeshift="2" group-title="Прочее",Че
+http://13.team.ga:80/ch109/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvkp3VKcypseBUbYlfGcSVJ5zwE7vs3HzobmmyldlOy9L
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/111.png" tvg-name="ch111" timeshift="0" group-title="Прочее",СТС love
+http://13.team.ga:80/ch111/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvpkrb5pkeVk4WVZrt23aII7iHDjXC4ZhDpXSlThinvqH
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/113.png" tvg-name="ch113" timeshift="1" group-title="Прочее",Ностальгия
+http://13.team.ga:80/ch113/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvv6_FmqdrNmdGm9l_4hayHQIMWQ0bWfJIOnNuXR3m8yj
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/118.png" tvg-name="ch118" timeshift="0" group-title="Прочее",Время
+http://13.team.ga:80/ch118/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvsES_5lmmHDyFyWLkPGUaNwOnfM_0SpnvxNuVKvxYBN_
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/120.png" tvg-name="ch120" timeshift="0" group-title="Прочее",HТB Cтиль
+http://13.team.ga:80/ch120/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvnEfP7StEJ__xF_h_732ynEfkDLqaIGyGSfrGyyRjlfY
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/392.png" tvg-name="ch392" timeshift="0" group-title="Прочее",НTВ Mир
+http://13.team.ga:80/ch392/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvo20pKFkczSPvfalPw5vRC62HgkccYq1PwZTIbib5ltm
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/729.png" tvg-name="ch729" timeshift="0" group-title="Прочее",Мир HD
+http://13.team.ga:80/ch729/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvsw4uDwmTgZ-Ufzj6bIEB8XHnmmAGMLg5-vg1vyoc81u
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/405.png" tvg-name="ch405" timeshift="0" group-title="Прочее",ОТР
+http://13.team.ga:80/ch405/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvp5RItxPXwc1k-pGqn2ue5e3O2VCPf0umZCQJcytZjps
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/420.png" tvg-name="ch420" timeshift="0" group-title="Прочее",Ю
+http://13.team.ga:80/ch420/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvr501aNVciyFDJIEl-jdw1AcJSHyVjvsGJeRSfQqT32w
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/426.png" tvg-name="ch426" timeshift="0" group-title="Прочее",Вопросы и ответы
+http://13.team.ga:80/ch426/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvlG97VNrhnQfxDjUDGrQxmMjJgFFyGQOCkM9-837U9Sk
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/1800.png" tvg-name="ch1800" timeshift="7" group-title="Прочее",DetectiveJam HD
+http://13.team.ga:80/ch1800/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvijmFZLHOQL69pnfl2wKOiqu2r-ZdGr_4Iax_J-kvUWc
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/439.png" tvg-name="ch439" timeshift="0" group-title="Прочее",RTД HD
+http://13.team.ga:80/ch439/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvru1uzsFBYBfVxKCEGH-UUxWFHsSqQNHzQMpATp0zBD8
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/503.png" tvg-name="ch503" timeshift="0" group-title="Прочее",E TV
+http://13.team.ga:80/ch503/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvorwnYEG-An8qzXMN7JvT6uzOK1l-_CrLOcXYBhle01O
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/507.png" tvg-name="ch507" timeshift="0" group-title="Прочее",Точка ТВ
+http://13.team.ga:80/ch507/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvk_aXTRAnnRDaRXltmAKBhHul3zaboCd365iA8lXMSaP
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/516.png" tvg-name="ch516" timeshift="0" group-title="Прочее",360 HD
+http://13.team.ga:80/ch516/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvvZzhUbmna_gBU5CT-EsuMEoxNo7WtlrbS4C6BAM0wiI
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/517.png" tvg-name="ch517" timeshift="0" group-title="Прочее",Спас
+http://13.team.ga:80/ch517/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvm8KyRatzTszpafC2mC08PmIcS0IGVcIjaUNu-ESh1Sh
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/518.png" tvg-name="ch518" timeshift="0" group-title="Прочее",Союз
+http://13.team.ga:80/ch518/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvhzJKHLibv6CwkPvlBUYYiBqqLJcvT3IrKxOah5idOSl
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/534.png" tvg-name="ch534" timeshift="0" group-title="Прочее",Доверие
+http://13.team.ga:80/ch534/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvnUrZoTW_OVikFgjXBucEMIFeVKaCQQSqIvBvHkvT9w9
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/540.png" tvg-name="ch540" timeshift="0" group-title="Прочее",Красная линия
+http://13.team.ga:80/ch540/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvlRVO-k7-uB1kGAdy_piymj1Tg0LGJyjp66f87yrE5MT
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/541.png" tvg-name="ch541" timeshift="0" group-title="Прочее",ЛДПР ТВ
+http://13.team.ga:80/ch541/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvubqUapl97NdpRxUaCIA8LnklBxdy0iOYcHksoX1FniO
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/546.png" tvg-name="ch546" timeshift="0" group-title="Прочее",Ювелирочка
+http://13.team.ga:80/ch546/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvogZWycB17zl_b1Gd587fvvB-nk6NCYXoXN1xzmDkdO7
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/550.png" tvg-name="ch550" timeshift="0" group-title="Прочее",Fashion TV HD
+http://13.team.ga:80/ch550/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvhdFzCRCHucqnPWo9YP29bMXfN_oSBWLv4U1wWg4PZ13
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/612.png" tvg-name="ch612" timeshift="0" group-title="Прочее",НTВ Правo
+http://13.team.ga:80/ch612/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvvbCBqlXRIEQbQVYaUgR9bCdudoxZV_t3wh8b2soXZ-D
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/616.png" tvg-name="ch616" timeshift="0" group-title="Прочее",Кто есть кто
+http://13.team.ga:80/ch616/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvjpKuXUnTcUKmXoKMiRLzcn8x6ZqAY9xnXnOQYJRN1Sf
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/625.png" tvg-name="ch625" timeshift="0" group-title="Прочее",Психология
+http://13.team.ga:80/ch625/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvjP-bCHdA0RvmYKK-4_Afci8tKzCZgGw2KKSChFJ5DYW
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/628.png" tvg-name="ch628" timeshift="0" group-title="Прочее",Успех
+http://13.team.ga:80/ch628/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvuDZvD0EkfoySP6SrJhdYp3YOmAJhbv0DG48pIMVtAs1
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/633.png" tvg-name="ch633" timeshift="0" group-title="Прочее",Перец International
+http://13.team.ga:80/ch633/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvrts6ZhrQbRkXz41U9e2f3jHNPPP6oWxMMdZoqeO9X6s
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/1524.png" tvg-name="ch1524" timeshift="0" group-title="Прочее",Анекдот ТВ
+http://13.team.ga:80/ch1524/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvjeD3By7sNThUIu_O7PGLAPsTdj0Mh2uTJaKXvuAP3Qh
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/1879.png" tvg-name="ch1879" timeshift="0" group-title="Прочее",Зал Суда
+http://13.team.ga:80/ch1879/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvuPt0a55l296b1aaMe7ansqj8o_sbe7eLZKmdLsZJmgM
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/2307.png" tvg-name="ch2307" timeshift="0" group-title="Прочее",Ключ ТВ
+http://13.team.ga:80/ch2307/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvn1__cTOKq5TovRfiNom_V5o65KzFUWxuEn4aSe06H1W
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/1235.png" tvg-name="ch1235" timeshift="0" group-title="Прочее",MM Relax HD
+http://13.team.ga:80/ch1235/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvqEcP4OwgD1bNo-jtFUaRlpiEutJYTaBs1tMVtkRii70
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/1953.png" tvg-name="ch1953" timeshift="3" group-title="Прочее",MM OldSchool HD
+http://13.team.ga:80/ch1953/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvhfsP4xzOQM24ctmofVagtnince7ejTfE8O5By9Zunic
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/1985.png" tvg-name="ch1985" timeshift="3" group-title="Прочее",Sky High Standup HD
+http://13.team.ga:80/ch1985/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvmyCVKj0q_3zvD_bjDSxLlIKC234Hl_UOrzdsjzlNd0i
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/2262.png" tvg-name="ch2262" timeshift="3" group-title="Прочее",KLI Humor HD
+http://13.team.ga:80/ch2262/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvpef_DeEKN_TaxGCjfKoEM-aSUVfFewr6VU0EDoGihcM
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/2263.png" tvg-name="ch2263" timeshift="3" group-title="Прочее",KLI Docu HD
+http://13.team.ga:80/ch2263/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvhGIUp8heci2zMgR0LxEY8l-GPGWhYqevCqHroYndzm3
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/2933.png" tvg-name="ch2933" timeshift="3" group-title="Прочее",KLI Орел и Решка
+http://13.team.ga:80/ch2933/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvrg7qAW0qGkLbppm7bASkRazqQjGWMPzmWtA-yBiipcY
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/2603.png" tvg-name="ch2603" timeshift="0" group-title="Прочее",Yosso TV Food
+http://13.team.ga:80/ch2603/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvtJgG5Y6n9K8ZHOdz2AuLqffl08Ix1vdybl5OFPau1wp
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/2286.png" tvg-name="ch2286" timeshift="3" group-title="Прочее",BOX Docu. HD
+http://13.team.ga:80/ch2286/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvhu1S_PndzQuGU5ZJ3yRZ_Qe8QWqDCZrI1u8raabviiv
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/2289.png" tvg-name="ch2289" timeshift="3" group-title="Прочее",BOX Game HD
+http://13.team.ga:80/ch2289/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvg2apfpSoTN5vX4s4Ka_w01KPlKY5mUX9RyUdlC1sNzV
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/2661.png" tvg-name="ch2661" timeshift="3" group-title="Прочее",Oasis Друзья Друзя
+http://13.team.ga:80/ch2661/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvk8k-DYNuCXTemk4is4I6d8P71bq7InOrUrhJINdskge
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/2830.png" tvg-name="ch2830" timeshift="3" group-title="Прочее",KBC +100500
+http://13.team.ga:80/ch2830/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvizmvtgXgOsGazfH08FqGkvt6BZxDP1uRfyZqYzfxZTE
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/3147.png" tvg-name="ch3147" timeshift="3" group-title="Прочее",SkyCam 100500
+http://13.team.ga:80/ch3147/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvmkxhwgeJwNBmUj4mx4v0CwEFVReMe3o3Vr1W-yWUhbM
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/3281.png" tvg-name="ch3281" timeshift="3" group-title="Прочее",SkyCam Relax
+http://13.team.ga:80/ch3281/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvtpR-PuNasahscGelIP-PsJXb1Py-8m6Oia7OQGytKR9
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/46.png" tvg-name="ch046" timeshift="0" group-title="Прочее",Кухня ТВ HD
+http://13.team.ga:80/ch046/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvkZW3ukF1WB3w3cYZIof3vef1oTvIHdikNozfMGcyNui
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/414.png" tvg-name="ch414" timeshift="0" group-title="Прочее",Суббота HD
+http://13.team.ga:80/ch414/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvjoxPze0W2jPcCtmGIweoikT2ft5nIeqmhdbLE6EtpxC
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/363.png" tvg-name="ch363" timeshift="6" group-title="Плюсовые",Первый +2
+http://13.team.ga:80/ch363/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvnPHYhJ6Tuv1Uj0zeDQz7IrEBneuxdLqXJtl8ytBZPYO
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/364.png" tvg-name="ch364" timeshift="6" group-title="Плюсовые",Первый +4
+http://13.team.ga:80/ch364/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvqCrItsNUsF9HG4uoUHB1VxIKyvxifbXZZ7OkQ1U4lQA
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/386.png" tvg-name="ch386" timeshift="6" group-title="Плюсовые",Первый +6
+http://13.team.ga:80/ch386/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvjbm7yaJ7d1GvyKtSHc8cpxk3OlICtYAcC6QB2a1dgto
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/635.png" tvg-name="ch635" timeshift="6" group-title="Плюсовые",Первый HD +4
+http://13.team.ga:80/ch635/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvsUkNnsnoM1i922kjJoiqdXda9NWIkRpLYSFeH5Ifonr
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/365.png" tvg-name="ch365" timeshift="6" group-title="Плюсовые",Россия 1 +2
+http://13.team.ga:80/ch365/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvhv2FCiPOjq-gsUa2jgv4qhOdYCwqbIxKu-4OTD2xNDr
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/366.png" tvg-name="ch366" timeshift="6" group-title="Плюсовые",Россия 1 +4
+http://13.team.ga:80/ch366/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvqm6SoGvUn6e9ke70QEI2XRFgLCfvz1o_st30tvq-DYX
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/388.png" tvg-name="ch388" timeshift="6" group-title="Плюсовые",Россия 1 +6
+http://13.team.ga:80/ch388/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvtmXYnqmjjx1jHjdz5qz_xPCgZQf9WcoulWpJJSaurjM
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/412.png" tvg-name="ch412" timeshift="3" group-title="Плюсовые",Пятница +2
+http://13.team.ga:80/ch412/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvux_eysqX8JkSVIrboESBQ_CQ4vex2jsmlNphp3nXemy
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/413.png" tvg-name="ch413" timeshift="3" group-title="Плюсовые",Пятница +6
+http://13.team.ga:80/ch413/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvogMUEA6dA8cbY8zpSB8e2MTrmP6GqxGd0WXXlLbNYh5
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/371.png" tvg-name="ch371" timeshift="3" group-title="Плюсовые",Рен ТВ +2
+http://13.team.ga:80/ch371/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvo20df3RtMRkev3uROBzsR1U8LW3XIgNuHI_kPjC5Ijd
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/1059.png" tvg-name="ch1059" timeshift="6" group-title="Плюсовые",Рен ТВ +4
+http://13.team.ga:80/ch1059/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvoOP1Xn1pZ4ViPPQJ6dzAsDyJGjtmoJwUhDh97LQL6Gx
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/480.png" tvg-name="ch480" timeshift="3" group-title="Плюсовые",Карусель +2
+http://13.team.ga:80/ch480/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvo8EWm17WLNFgYIh9d82YVzabVwPrk12xdtR_rZfzzqt
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/481.png" tvg-name="ch481" timeshift="3" group-title="Плюсовые",Карусель +4
+http://13.team.ga:80/ch481/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvn8Dt9fnUYH3lrQM3CjyAScGrjSMiWtR1P3_feXOWcFM
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/482.png" tvg-name="ch482" timeshift="3" group-title="Плюсовые",Карусель +6
+http://13.team.ga:80/ch482/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvni_g_U1dMvnrex5CnUyecia-tj0qkntgKc_aTpUgCfL
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/367.png" tvg-name="ch367" timeshift="1" group-title="Плюсовые",НТВ +2
+http://13.team.ga:80/ch367/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvm-qceWU0gRGNkbVotHvV1-i0AK_X2eMEgpwz0m2H5sb
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/368.png" tvg-name="ch368" timeshift="6" group-title="Плюсовые",НТВ +4
+http://13.team.ga:80/ch368/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvnMBSgoqGzjG6gSk_z887JjCuPd8BHPWBGGIMnUECpDC
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/390.png" tvg-name="ch390" timeshift="6" group-title="Плюсовые",НТВ +6
+http://13.team.ga:80/ch390/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqviwZxz_t3gkVhjVgJhyZsoZWpYubAU4UBtUDWCbY06Js
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/398.png" tvg-name="ch398" timeshift="2" group-title="Плюсовые",СТС +2
+http://13.team.ga:80/ch398/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvmdmGNhs93JCyZCrvjoNZH9uvxciKHLNFZwB4Xuswc1h
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/399.png" tvg-name="ch399" timeshift="2" group-title="Плюсовые",СТС +4
+http://13.team.ga:80/ch399/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvm55j3U6yGFbCPHJdqB2bzIQCA_yatApG_10kCKhymj-
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/400.png" tvg-name="ch400" timeshift="3" group-title="Плюсовые",СТС +6
+http://13.team.ga:80/ch400/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvp_mWyl5lYTcs0QPUd1_YXkyYjg2cTwu82mrnDriViJL
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/417.png" tvg-name="ch417" timeshift="0" group-title="Плюсовые",Домашний +2
+http://13.team.ga:80/ch417/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvlG5Va1AiERoPuJZqyagzJGuyKKMdMM7GrKyD5epsMTy
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/2027.png" tvg-name="ch2027" timeshift="2" group-title="Плюсовые",Домашний +4
+http://13.team.ga:80/ch2027/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvuRiS9opmOAyLjXQdS5jZQ7ubgFF9R-TkTNUEFjOJDq0
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/369.png" tvg-name="ch369" timeshift="6" group-title="Плюсовые",ТНТ +2
+http://13.team.ga:80/ch369/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvrmqGlBWOOFI0Tuvo9ksulPMgDO3rmzZFatiGZWhEOc4
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/370.png" tvg-name="ch370" timeshift="6" group-title="Плюсовые",ТНТ +4
+http://13.team.ga:80/ch370/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvkAeDBMORJ-uzinfDm20uY7T9WFuNowpu3ywVkN9_Pzk
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/397.png" tvg-name="ch397" timeshift="6" group-title="Плюсовые",ТНТ +6
+http://13.team.ga:80/ch397/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvv28WR_zPhCxo0lOkoj_kNgMcuXIBkswXo1wGIM6jD3V
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/374.png" tvg-name="ch374" timeshift="3" group-title="Плюсовые",ТВЦ +2
+http://13.team.ga:80/ch374/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvuCg1NMNn-uDkPK9C-o4W0kz13K5ngqxRVBFrj8i5rTr
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/393.png" tvg-name="ch393" timeshift="1" group-title="Плюсовые",ТВЦ +4
+http://13.team.ga:80/ch393/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvh6aDG72Sm22RkKg-GiXWVsDrcaQQGZEvFprWQqH5RGa
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/373.png" tvg-name="ch373" timeshift="1" group-title="Плюсовые",Звезда +2
+http://13.team.ga:80/ch373/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvt8ZEI6v6egQhzwfsZHhMl831bZ4ZvMg1etHX8pxy6L3
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/406.png" tvg-name="ch406" timeshift="3" group-title="Плюсовые",Звезда +4
+http://13.team.ga:80/ch406/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvl3ISwpExfhL0yHNzzuwLbjJpYx9ir9XmA1A5OLM5odr
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/407.png" tvg-name="ch407" timeshift="0" group-title="Плюсовые",Звезда +6
+http://13.team.ga:80/ch407/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvvw71J9dfiLH-sMhtpHKcM3LeztlURhEWxgiD7-hu1J9
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/372.png" tvg-name="ch372" timeshift="2" group-title="Плюсовые",Пятый Канал +2
+http://13.team.ga:80/ch372/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvoNEWhCCXp94mIuCyM_Xuo0nGZrze0hmCiXHVQ6IPFQP
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/395.png" tvg-name="ch395" timeshift="0" group-title="Плюсовые",Пятый Канал +4
+http://13.team.ga:80/ch395/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvnlT7dIBNVtRaPvXEX0I5f75Tvh90tZymO5mWM_IyTPO
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/409.png" tvg-name="ch409" timeshift="0" group-title="Плюсовые",ТВ 3 +2
+http://13.team.ga:80/ch409/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvgA-qk27cspT0Jwo34EglnkjxoPjP1w_cEAwpJBvOU3q
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/410.png" tvg-name="ch410" timeshift="0" group-title="Плюсовые",ТВ 3 +4
+http://13.team.ga:80/ch410/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvu1zhnd86R_8mkVL-YzPI7FLvbjmiFP3SG31iLaZYUVD
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/411.png" tvg-name="ch411" timeshift="0" group-title="Плюсовые",ТВ 3 +6
+http://13.team.ga:80/ch411/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvqAc7cxzQluTYVtjlZVq0uKqNQgZS-hN4i3HI2Uy3qPd
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/408.png" tvg-name="ch408" timeshift="0" group-title="Плюсовые",Че +4
+http://13.team.ga:80/ch408/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvlNtDRy9mqR5bcaRQSXCYS4zXQEak6BQCKhEVPVHjVfL
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/403.png" tvg-name="ch403" timeshift="0" group-title="Плюсовые",Мир +2
+http://13.team.ga:80/ch403/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvm890cHGU0NRL26dlooOYTacHXutzmeMP0x7ZX6Vo2ek
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/404.png" tvg-name="ch404" timeshift="0" group-title="Плюсовые",Мир +6
+http://13.team.ga:80/ch404/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvrmmejmaCPzYNL1qqUBl5ORBQglBlnU3LiDHaHvpvihR
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/415.png" tvg-name="ch415" timeshift="0" group-title="Плюсовые",Суббота +2
+http://13.team.ga:80/ch415/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvhWaxqxNCMgS53rjautaqzzRInP0vYqn4d9THHl6zPXb
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/562.png" tvg-name="ch562" timeshift="0" group-title="Belarus",BY: Беларусь 1 HD
+http://13.team.ga:80/ch562/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvqqsI4lkiS82ICVA3G1xHJMgFxF8nmnC-qSM3XNjoXQ1
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/564.png" tvg-name="ch564" timeshift="0" group-title="Belarus",BY: Беларусь 2 HD
+http://13.team.ga:80/ch564/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvirXZiBznIP2GqqGABrToEwkbAeEUUzdKhbkPVQt1vbQ
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/565.png" tvg-name="ch565" timeshift="0" group-title="Belarus",BY: Беларусь 3 HD
+http://13.team.ga:80/ch565/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvmCvyRLVBe73o9wFnTjwg52iIu0hHLJ0Mzj2-l0JGkng
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/473.png" tvg-name="ch473" timeshift="0" group-title="Belarus",BY: Беларусь 5 HD
+http://13.team.ga:80/ch473/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvsbTUSan-VJl3BAZv6yEkbDvUMoUcV7d_qh7bdMSVV8Z
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/583.png" tvg-name="ch583" timeshift="0" group-title="Belarus",BY: Беларусь 24
+http://13.team.ga:80/ch583/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqviA0EGg3NZkzKyOsDxBoLhZxe6RhCTrMgRIa8Cyopccp
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/563.png" tvg-name="ch563" timeshift="0" group-title="Belarus",BY: РТР HD
+http://13.team.ga:80/ch563/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvrCOwydj6beW01w9qtZG-LMTlLx8WcR2ubs6D55uYBJ7
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/561.png" tvg-name="ch561" timeshift="0" group-title="Belarus",BY: ОНТ HD
+http://13.team.ga:80/ch561/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvlfmauSSbwgih3p29k8GSpZETuwMZoCc-h0sSITDmDzc
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/584.png" tvg-name="ch584" timeshift="0" group-title="Belarus",BY: БелРос
+http://13.team.ga:80/ch584/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvoczFZX1jupd1E87sywquraiAqN7im30C2E0HrbbEQbx
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/611.png" tvg-name="ch611" timeshift="0" group-title="Belarus",BY: 8 Канал HD
+http://13.team.ga:80/ch611/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvt6tc_JvvJPiXZ3wflosIwqYsAFvkuIqOIHWUdJbRn94
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/713.png" tvg-name="ch713" timeshift="0" group-title="Belarus",BY: СТВ HD
+http://13.team.ga:80/ch713/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvpXwnKdZ21b04r1Raly8dYWKiVtpGKeD4Fao6FjLVZhV
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/726.png" tvg-name="ch726" timeshift="0" group-title="Belarus",BY: Белсат ТВ
+http://13.team.ga:80/ch726/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvum74r7b6e0w6wAOFosOM8QghGuPD7ltq-MKbcdDFO6p
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/1672.png" tvg-name="ch1672" timeshift="2" group-title="Kazakhstan",KZ: Первый Канал Евразия
+http://13.team.ga:80/ch1672/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvvlqzFHqF1-oHZidDlRsVNS2G50GFtYvMyqScUQRDplX
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/2335.png" tvg-name="ch2335" timeshift="2" group-title="Kazakhstan",KZ: Премиум Кино HD
+http://13.team.ga:80/ch2335/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvrwFVo0GvI2re9UYllfbd8gd2397Iwig15L-ayLhTSUW
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/2309.png" tvg-name="ch2309" timeshift="6" group-title="Kazakhstan",KZ: Кино Боевик HD
+http://13.team.ga:80/ch2309/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvt53ZWgtaI-20t9m8wvujRITJa1K1NAWhY6x7gKcp9xh
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/2308.png" tvg-name="ch2308" timeshift="6" group-title="Kazakhstan",KZ: Семейное Кино HD
+http://13.team.ga:80/ch2308/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvg9nKBdphBADgGC8ACwsvpLRyQhtr-dthH_7AQxOKcJx
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/2013.png" tvg-name="ch2013" timeshift="2" group-title="Kazakhstan",KZ: Мировое Кино HD
+http://13.team.ga:80/ch2013/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvkUYJzTkzaOGVYePHAe4NWzbeVeoLJXezYBcRMKj4UPx
