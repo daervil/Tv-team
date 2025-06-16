@@ -80,7 +80,7 @@ http://13.team.ga:80/ch509/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvsQlpJ
 #EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/510.png" tvg-name="ch510" timeshift="0" group-title="Новости",Мир 24 HD
 http://13.team.ga:80/ch510/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvv8PZ3wTJ9ht67jUqTbMv3rjb7Bxq8GlgdPljVIgsyqr
 #EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/132.png" tvg-name="ch132" timeshift="6" group-title="Фильмовые",Русский роман
-http://13.team.ga:80/ch132/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvgbN4hh9KFPkDAgSAF4sM5TGCw-Ved0Jxq6-RBtu7nwz
+http://ru.team.ga:80/ch132/index.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvq9O-m4QqFUJ65elUqtKf4iKAsvoI6EUj_EAtItvAy3H
 #EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/115.png" tvg-name="ch115" timeshift="6" group-title="Фильмовые",Русский бестселлер
 http://13.team.ga:80/ch115/mono.m3u8?token=xm8compact.JZCj6NfLTGyMlF6zeBfqvj_LUF2x1O1vAfCn_M8DCtFFLmjUAVcCeETk5fENAw5t
 #EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/101.png" tvg-name="ch101" timeshift="6" group-title="Фильмовые",Русский Иллюзион
